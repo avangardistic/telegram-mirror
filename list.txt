@@ -30,3 +30,5 @@ V2rayAlpha
 vipV2rayNGnp
 ldasaturnm
 config4k
+bg_ae
+maznet
