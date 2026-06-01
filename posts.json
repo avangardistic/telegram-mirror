@@ -17005,6 +17005,25 @@
     ],
     "Config_HATunnel": [
       {
+        "id": 67141,
+        "text": "گیرم كه سپیده سر زند و روزگار به كام ما\n....\nپروکسی\n|\nپروکسی\n|\nپروکسی\n🟢\nهمراه متصل\nپروکسی\n|\nپروکسی\n|\nپروکسی\n@Config_HATunnel",
+        "date": "2026-06-01T04:14:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "Config_HATunnel_67141_0_85c669f0.jpg"
+          },
+          {
+            "type": "video",
+            "file": "Config_HATunnel_67141_1_f9a08b44.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/Config_HATunnel/67141"
+      },
+      {
         "id": 67140,
         "text": "پروکسی\nhttps://t.me/proxy?server=ams1.tlgfast.com&port=443&secret=083fe0c452e2407d835537872f097c54\nhttps://t.me/proxy?server=87.248.129.50&port=15&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d\n@Config_HATunnel",
         "date": "2026-05-31T21:45:26+00:00",
@@ -18312,16 +18331,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/Config_HATunnel/66891"
-      },
-      {
-        "id": 66890,
-        "text": "لیست IP\nشیر و خورشید",
-        "date": "2026-05-28T16:12:18+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/Config_HATunnel/66890"
       }
     ],
     "apkclub": [
@@ -36678,22 +36687,22 @@
       }
     ]
   },
-  "last_update": "2026-06-01T04:02:53.565113+00:00",
+  "last_update": "2026-06-01T04:15:05.779310+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2296,
-    "total_media": 2231,
-    "total_files": 2231,
+    "total_media": 2233,
+    "total_files": 2233,
     "total_links": 557,
     "files_by_type": {
-      "image": 2100,
-      "video": 99,
+      "image": 2101,
+      "video": 100,
       "audio": 31,
       "document": 1
     },
-    "referenced_files": 2231,
-    "existing_media_files": 2231,
-    "total_size_mb": 485.98,
-    "last_calculation": "2026-06-01T04:02:53.592061+00:00"
+    "referenced_files": 2233,
+    "existing_media_files": 2233,
+    "total_size_mb": 494.34,
+    "last_calculation": "2026-06-01T04:15:05.805999+00:00"
   }
 }
