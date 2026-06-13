@@ -1,7 +1,7 @@
-Last run: 2026-06-13 22:01:18 UTC
-Workflow: 27480290329
+Last run: 2026-06-13 23:05:25 UTC
+Workflow: 27481690979
 Repository: avangardistic/telegram-mirror
 Validation: success
 Mirror success: true
-Media files: 2006
-Media size: 503M
+Media files: 1987
+Media size: 501M
