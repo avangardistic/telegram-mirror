@@ -1762,14 +1762,9 @@
         "id": 12201,
         "text": "پدافندا پرقدرت با دشمن فرضی در حال مبارزه هستند",
         "date": "2026-07-21T23:49:12+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_12201_0_4a5bd890.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/Configir98/12201"
       },
@@ -1777,18 +1772,9 @@
         "id": 12197,
         "text": "🚨\nپدافند تهران به صدا در آمد",
         "date": "2026-07-21T23:30:45+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_12197_0_4a5bd890.jpg"
-          },
-          {
-            "type": "video",
-            "file": "Configir98_12197_1_fad312e6.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/Configir98/12197"
       },
@@ -1796,14 +1782,9 @@
         "id": 12195,
         "text": "🚨\nاز بوشهر هم صدای انفجار شنیده شده.\n+ این پیام تاریخ انقضا ندارد\n.",
         "date": "2026-07-21T23:23:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_12195_0_4a5bd890.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/Configir98/12195"
       },
@@ -1811,14 +1792,9 @@
         "id": 12194,
         "text": "🇮🇷\nخبر فوری :\nسایت جانفدا گزینه ی لغو عضویت رو فعال کرد",
         "date": "2026-07-21T23:21:56+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_12194_0_4a5bd890.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/Configir98/12194"
       },
@@ -1826,14 +1802,9 @@
         "id": 12193,
         "text": "ملکی، سخنگوی سازمان آتش‌نشانی :\nانفجاری که دقایقی پیش از نارمک تهران شنیده شد، مربوط به نشتی گاز یه واحد مسکونی بود که خداروشکر تلفات جانی نداشت.",
         "date": "2026-07-21T23:19:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_12193_0_4a5bd890.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/Configir98/12193"
       },
@@ -8497,6 +8468,63 @@
     ],
     "IranintlTV": [
       {
+        "id": 348955,
+        "text": "ویدیو‌های رسیده به ایران‌اینترنشنال فعال شدن پدافند هوایی را در مناطق نیاوران، کاشانک و شرق تهران در ساعات اولیه بامداد چهارشنبه ۳۱ تیر نشان می‌دهد.",
+        "date": "2026-07-22T02:11:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_348955_0_b836938c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_348955_1_dcdbf00b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/348955"
+      },
+      {
+        "id": 348954,
+        "text": "ویدیوی ارسالی به ایران‌اینترنشنال، همراه با ویدیوهای منتشرشده از سوی کانال تلگرامی «وحید آنلاین»، آتش و دود را در منطقه‌ای از بهبهان در بامداد چهارشنبه ۳۱ تیر نشان می‌دهد.\nگزارش‌های منتشرشده حاکی است پادگان بخردیان سپاه در بهبهان خوزستان هدف حمله قرار گرفته است.",
+        "date": "2026-07-22T02:10:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_348954_0_b836938c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_348954_1_2ec91901.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/348954"
+      },
+      {
+        "id": 348953,
+        "text": "ستاد فرماندهی مرکزی ایالات متحده (سنتکام) اعلام کرد نیروهای آمریکا ساعت ۸:۱۵ شامگاه ۲۱ ژوییه به وقت شرق آمریکا، یازدهمین شب متوالی حملات به مواضع حکومت ایران را به پایان رسانده‌اند. به گفته این فرماندهی، در این عملیات مراکز نظامی، توانمندی‌های دریایی، آشیانه‌های هواپیما، انبارهای پهپاد و زیرساخت‌های لجستیکی هدف قرار گرفت.",
+        "date": "2026-07-22T02:09:38+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_348953_0_b836938c.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_348953_1_737d11a1.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/348953"
+      },
+      {
         "id": 348952,
         "text": "خبرگزاری تسنیم، وابسته به سپاه پاسداران، گزارش داد آمریکا ساعت ۰۲:۵۵ بامداد چهارشنبه ۳۱ تیرماه یک نقطه در خارج از محدوده شهری بانه در استان کردستان را هدف حمله قرار داد.\nاین خبرگزاری جزییات بیشتری درباره محل دقیق حمله یا خسارت‌های احتمالی منتشر نکرد.\nhttps://iranintl.com/202607229762",
         "date": "2026-07-22T01:30:24+00:00",
@@ -9668,14 +9696,9 @@
         "id": 348898,
         "text": "۲۴ با فرداد فرحزاد\n@iranintltv",
         "date": "2026-07-21T18:35:35+00:00",
-        "media": [
-          {
-            "type": "video",
-            "file": "IranintlTV_348898_1_ca3b730c.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/348898"
       },
@@ -10182,48 +10205,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/348855"
-      },
-      {
-        "id": 348854,
-        "text": "بر اساس اطلاعات رسیده به ایران‌اینترنشنال، وضعیت بهداشتی زندان دستگرد اصفهان در ماه‌های اخیر به‌شدت وخیم شده و بیماری مننژیت در میان زندانیان شیوع گسترده‌ای یافته است.\nیک منبع آگاه به ایران اینترنشنال گفت تعدادی از زندانیان بر اثر ابتلا به بیماری و عفونت جان باخته‌اند. بنابراین اطلاعات، پیکر این زندانیان هم‌زمان با مراسم خاکسپاری محمد امینی دهاقانی، روز ۲۴ تیر ماه، در فضایی امنیتی در باغ رضوان اصفهان به خاک سپرده شد.\nدر روز خاکسپاری، نیروهای حکومتی ورودی باغ رضوان را مسدود کرده و تنها به اعضای خانواده این زندانیان اجازه ورود دادند. مراسم در سکوت و تحت تدابیر شدید امنیتی برگزار شد.\nhttps://iranintl.com/202607216708",
-        "date": "2026-07-21T12:42:42+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607216708",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607216708"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/348854"
-      },
-      {
-        "id": 348853,
-        "text": "بر اساس اطلاعات رسیده به ایران‌اینترنشنال، وضعیت بهداشتی زندان دستگرد اصفهان در ماه‌های اخیر به‌شدت وخیم شده و بیماری مننژیت در میان زندانیان شیوع گسترده‌ای یافته است.\nیک منبع آگاه به ایران اینترنشنال گفت تعدادی از زندانیان بر اثر ابتلا به بیماری و عفونت جان باخته‌اند. بنابراین اطلاعات، پیکر این زندانیان هم‌زمان با مراسم خاکسپاری محمد امینی دهاقانی، روز ۲۴ تیر ماه، در فضایی امنیتی در باغ رضوان اصفهان به خاک سپرده شد.\nدر روز خاکسپاری، نیروهای حکومتی ورودی باغ رضوان را مسدود کرده و تنها به اعضای خانواده این زندانیان اجازه ورود دادند. مراسم در سکوت و تحت تدابیر شدید امنیتی برگزار شد.\nhttps://iranintl.com/202607216708",
-        "date": "2026-07-21T12:42:41+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607216708",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607216708"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/348853"
-      },
-      {
-        "id": 348852,
-        "text": "سخنگوی ارتش جمهوری اسلامی گفت اگر آمریکایی‌ها در جزایر ایران مستقر شوند، نیروهای مسلح جزایر کشور را هم هدف قرار می‌دهند.\nمرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، می‌گوید جمهوری اسلامی برای تداوم بقای غیردموکراتیک و ضدملی خود، پروایی از تبدیل ایران به سرزمین سوخته ندارد.\n@iranintltv",
-        "date": "2026-07-21T12:30:34+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/348852"
       }
     ],
     "tavaanatech": [
@@ -32998,12 +32979,7 @@
         "id": 12189,
         "text": "https://t.me/proxy?server=newwwww.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09\nhttps://t.me/proxy?server=cdn.savelyev.click&port=443&secret=ee289573f97532f1d66fe239efbf0585ad63646e2e736176656c7965762e636c69636b\nhttps://t.me/proxy?server=tg9f28144b.koshkaproxy.shop&port=443&secret=ee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70\n🎖\n@BestProxyTel1",
         "date": "2026-07-22T01:50:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12189_0_6c9ba3f9.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://t.me/proxy?server=newwwww.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09",
@@ -33021,7 +32997,7 @@
             "display_text": "https://t.me/proxy?server=tg9f28144b.koshkaproxy.shop&port=4..."
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/BestProxyTel1/12189"
       },
@@ -33029,14 +33005,9 @@
         "id": 12187,
         "text": "کاش تو روز سیکتیر،سیک اینارو هم بزنن تموم شن خسته شدیم والا\n🎖\n@BestProxyTel1",
         "date": "2026-07-22T00:04:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12187_0_6c9ba3f9.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/12187"
       },
@@ -33044,12 +33015,7 @@
         "id": 12186,
         "text": "🔴\nدوستان نت هر لحظه ممکنه ملی بشه اینارو داشته باشید محض احتیاط\nhttps://t.me/proxy?server=nab.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09\nhttps://t.me/proxy?server=PAyDaR.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09\nhttps://t.me/proxy?server=FOR-IRAN.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09\nhttps://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09\n🎖\n@BestProxyTel1",
         "date": "2026-07-22T00:01:57+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12186_0_6c9ba3f9.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://t.me/proxy?server=nab.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
@@ -33072,7 +33038,7 @@
             "display_text": "https://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&se..."
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/BestProxyTel1/12186"
       },
@@ -38580,22 +38546,22 @@
       }
     ]
   },
-  "last_update": "2026-07-22T01:58:20.467387+00:00",
+  "last_update": "2026-07-22T02:43:13.703357+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2715,
-    "total_media": 1835,
-    "total_files": 1835,
-    "total_links": 479,
+    "total_media": 1831,
+    "total_files": 1831,
+    "total_links": 477,
     "files_by_type": {
-      "image": 1734,
-      "video": 83,
+      "image": 1729,
+      "video": 84,
       "audio": 16,
       "document": 2
     },
-    "referenced_files": 1835,
-    "existing_media_files": 1835,
-    "total_size_mb": 496.62,
-    "last_calculation": "2026-07-22T01:58:20.489664+00:00"
+    "referenced_files": 1831,
+    "existing_media_files": 1831,
+    "total_size_mb": 499.71,
+    "last_calculation": "2026-07-22T02:43:13.725542+00:00"
   }
 }
