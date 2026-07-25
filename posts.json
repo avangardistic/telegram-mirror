@@ -1762,14 +1762,9 @@
         "id": 12311,
         "text": "💵\nکانفیگ اختصاصی چند لوکیشنه\n💎\n💥\n20 GB\n➡️\n100  T\n💥\n30 GB\n➡️\n140  T\n💥\n40 GB\n➡️\n180  T\n💥\n50 GB\n➡️\n220  T\n💥\n100 GB\n➡️\n400  T\n⭕️\nنامحدود تک کاربره\n250 T\n✔️\nمخصوص نت ملی\n✔️\nپرسرعت و پایدار در شرایط فعلی\n✔️\nهمراه بالینک ساب(استعلام حجم\n)\n✔️\nآیپی ثابت ، بدون ضریب ، تحویل آنی\n✔️\nسرویس مخصوص گیم\n🇹🇷\n🛍\nاشتراک سه ماهه و شیش موجوده\n🔐\n🔐\n🔐\n🔐\nجهت خرید از طریق ربات زیر اقدام کنید\n🤖\n@MARTiNiR98BOT",
         "date": "2026-07-25T05:02:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Configir98_12311_0_9a7010f0.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/Configir98/12311"
       },
@@ -8635,6 +8630,69 @@
     ],
     "IranintlTV": [
       {
+        "id": 349477,
+        "text": "رشاد العلیمی، رییس شورای ریاستی یمن، در شبکه ایکس نوشت حوثی‌ها هر بار که فرصتی برای کاهش تنش فراهم می‌شود، منافع مردم یمن را قربانی برنامه‌های جمهوری اسلامی می‌کنند.\nاو افزود دولت یمن با ائتلاف حمایت از مشروعیت و شرکای بین‌المللی برای حفاظت از گذرگاه‌های آبی همکاری نزدیک خواهد داشت.\nالعلیمی همچنین گفت حوثی‌ها چاره‌ای جز تن دادن به خواست مردم یمن ندارند و ادامه تنش‌آفرینی تنها به فرسایش بیشتر منابع و توان کشور منجر می‌شود.\nhttps://iranintl.com/202607258913",
+        "date": "2026-07-25T05:31:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_349477_0_8cb7bd0e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_349477_1_ced0d392.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202607258913",
+            "type": "external",
+            "display_text": "https://iranintl.com/202607258913"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/349477"
+      },
+      {
+        "id": 349476,
+        "text": "مهدی نصیری، فعال سیاسی، به ایران‌اینترنشنال گفت همه جریان‌های جمهوری اسلامی، از اصولگرا تا اصلاح‌طلب، چه در دوران رهبری علی خامنه‌ای و چه در دوره رهبری مجتبی خامنه‌ای، دستیابی به سلاح هسته‌ای را دنبال کرده‌اند.\nبه گفته او، فتوای حرام دانستن ساخت بمب اتمی نیز می‌تواند با تغییر شرایط و نظر فقیه، تغییر کند.\n@iranintltv",
+        "date": "2026-07-25T05:29:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_349476_0_8cb7bd0e.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_349476_1_0f859862.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/349476"
+      },
+      {
+        "id": 349475,
+        "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در کاخ سفید گفت دو گزینه پیش روی آمریکا وجود دارد: ادامه اقدام نظامی با شدت بیشتر یا دستیابی به یک توافق از طریق مذاکره.\nمحمد قائدی، مدرس روابط بین‌الملل در دانشگاه جورج واشینگتن، به ایران‌اینترنشنال گفت باید تهدیدهای دونالد ترامپ را جدی گرفت و با اینکه اظهارات او نشانه عزم جدی برای مقابله با جمهوری اسلامی است، همچنان ترجیح او دستیابی به توافق از طریق مذاکره، پیش از گسترش دامنه جنگ، است.\n@iranintltv",
+        "date": "2026-07-25T05:25:11+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_349475_0_8cb7bd0e.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_349475_1_5e2cc1f9.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/349475"
+      },
+      {
         "id": 349474,
         "text": "نیویورک‌تایمز به نقل از نهادهای اطلاعاتی آمریکا گزارش داد مجتبی خامنه‌ای، رهبر جمهوری اسلامی، بیش از پدرش به ساخت سلاح هسته‌ای گرایش دارد. این ارزیابی بر پایه اظهارات علنی و مکالمات رهگیری‌شده پیش از آغاز جنگ انجام شده و به گفته مقام‌های آمریکایی، او از ساخت کلاهک گرماهسته‌ای قابل نصب روی موشک‌های دوربرد حمایت می‌کند.\nجزییات بیشتر با اردوان روزبه، خبرنگار ایران‌اینترنشنال\n@iranintltv",
         "date": "2026-07-25T05:19:06+00:00",
@@ -9173,10 +9231,6 @@
         "date": "2026-07-24T21:56:17+00:00",
         "media": [
           {
-            "type": "image",
-            "file": "IranintlTV_349449_0_8cb7bd0e.jpg"
-          },
-          {
             "type": "video",
             "file": "IranintlTV_349449_1_a6884d35.mp4"
           }
@@ -9190,18 +9244,9 @@
         "id": 349448,
         "text": "نیویورک‌تایمز گزارش داد دونالد ترامپ، رییس‌جمهوری آمریکا، قرار است روز جمعه با مشاوران ارشد و اعضای کابینه خود درباره احتمال تشدید حملات نظامی علیه جمهوری اسلامی گفت‌وگو کند.\nترامپ در عین حال گفته است آمریکا و جمهوری اسلامی برای پایان دادن به درگیری‌ها در حال مذاکره هستند، اما تهران هنوز برای دستیابی به توافق آماده نیست. همزمان، تلاش‌های دیپلماتیک در اروپا و خاورمیانه برای کاهش تنش‌ها ادامه دارد.\nگزارش نیلوفر منصوری، خبرنگار ایران‌اینترنشنال\n@iranintltv",
         "date": "2026-07-24T21:48:59+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_349448_0_8cb7bd0e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_349448_1_2f7d2c09.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/349448"
       },
@@ -9209,18 +9254,9 @@
         "id": 349447,
         "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، گفت کشورهای منطقه پیش‌تر به دلیل مشکلاتی که با جمهوری اسلامی داشتند، حاضر به پیوستن به توافق‌نامه‌های ابراهیم نبودند، اما اکنون شرایط تغییر کرده است.\nاو افزود جمهوری اسلامی دیگر قدرت منطقه‌ای گذشته را ندارد و به گفته او، پس از از دست دادن بخش‌هایی از توان نظامی، سامانه‌های پدافند هوایی، رهبر و بسیاری از فرماندهانش، دیگر نمی‌تواند نقش پیشین خود را در خاورمیانه ایفا کند.\n@iranintltv",
         "date": "2026-07-24T21:23:25+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_349447_0_8cb7bd0e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_349447_1_d7edca8a.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/349447"
       },
@@ -10047,42 +10083,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/349375"
-      },
-      {
-        "id": 349374,
-        "text": "شورای اتحادیه اروپا اعلام کرد شش فرد، از جمله پنج قاضی دادگاه‌های انقلاب جمهوری اسلامی و نیما صالحی، هکر و بنیان‌گذار گروه سایبری «آشیانه»، را به دلیل نقض جدی حقوق بشر در ایران در فهرست تحریم‌ها قرار داده است.\nکایا کالاس، مسئول سیاست خارجی اتحادیه اروپا، با اعلام این تصمیم گفت این تحریم‌ها قضاتی را هدف قرار می‌دهد که مسئول نقض جدی حقوق بشر هستند. او افزود با تشدید سرکوب داخلی از سوی تهران، اتحادیه اروپا به پاسخگو کردن مسئولان این اقدامات ادامه خواهد داد.\nشورای اتحادیه اروپا اعلام کرد این پنج قاضی در پرونده‌های مربوط به اقلیت‌های مذهبی و مخالفان سیاسی، احکام اعدام، حبس‌های طولانی، شلاق، جریمه و مجازات‌های تکمیلی صادر کرده‌اند. این احکام از جمله در ارتباط با اعتراض‌های «زن، زندگی، آزادی» پس از کشته شدن مهسا امینی صادر شده است.\nاتحادیه اروپا همچنین نیما صالحی را به دلیل همکاری گروه «آشیانه» با پلیس فتا و سپاه پاسداران و نقش این گروه در حملات سایبری علیه مخالفان داخلی و نهادهای خارجی و کمک به سرکوب جریان آزاد اطلاعات، تحریم کرد.\nhttps://iranintl.com/202607246598",
-        "date": "2026-07-24T12:47:32+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202607246598",
-            "type": "external",
-            "display_text": "https://iranintl.com/202607246598"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/349374"
-      },
-      {
-        "id": 349373,
-        "text": "🔻\nبا انتقال ۱۱۷ میلیون پوندی مورگان راجرز از استون ویلا به چلسی، این مهاجم ۲۳ ساله به گران‌ترین بازیکن بریتانیایی تاریخ تبدیل شد. راجرز پس از درخشش در استون ویلا، کسب مقام چهارمی لیگ برتر و قهرمانی در لیگ اروپا، در حالی راهی استمفوردبریج شد که آرسنال نیز به‌شدت خواهان جذب او بود؛ اما در نهایت چلسی با پرداخت رقم درخواستی ویلا، برنده این رقابت شد.\n🔹\nبا ورود ژابی آلونسو به چلسی، پرسش‌هایی درباره نحوه به‌کارگیری و تناسب تاکتیکی راجرز مطرح شده است؛ این‌که آیا این ستاره واقعاً به‌درد پروژه چلسی می‌خورد؟ آیا خریدی کلیدی برای پروژه چلسی یا هزینه‌ای اضافه؟\n🔹\nبه نوشته روزنامه گاردین، آلونسو معمولاً از سیستم‌های ۳-۴-۳ یا ۴-۲-۳-۱ استفاده می‌کند و راجرز که توانایی بازی در پست‌های مختلف را دارد، احتمالاً در پست وینگر چپ یا شماره ۱۰ به کار گرفته خواهد شد.\n🔹\nبا این حال، سبک بازی مالکانه و صبورانه آلونسو در بایرلورکوزن ممکن است با نقاط قوت راجرز در تناقض باشد.\n🔹\nادامه این گزارش را در\nسایت\nبخوانید.\n@iranintltvsport",
-        "date": "2026-07-24T12:38:01+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/349373"
-      },
-      {
-        "id": 349372,
-        "text": "دادگاه تجدیدنظر استان خوزستان حکم یک سال حبس تعزیری کوکب بداغی‌پگاه، فعال صنفی فرهنگیان، را به اتهام فعالیت تبلیغی علیه نظام تایید کرد.\nآسیه امینی، تحلیل‌گر مسائل اجتماعی، گفت جمهوری اسلامی در تلاش است صدای هر شهروندی را که درباره حقوق خود صحبت می‌کند، خاموش کند.",
-        "date": "2026-07-24T12:29:33+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/349372"
       }
     ],
     "tavaanatech": [
@@ -16917,18 +16917,9 @@
         "id": 70214,
         "text": "آمیرزا رو آوردن تلگرام بیا جدول حل کن:\n📝\n👇\n@danestani",
         "date": "2026-07-25T05:15:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Config_HATunnel_70214_0_af774fa3.jpg"
-          },
-          {
-            "type": "image",
-            "file": "Config_HATunnel_70214_1_1b0c393a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/Config_HATunnel/70214"
       },
@@ -19237,14 +19228,9 @@
         "id": 8714,
         "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇳🇱\n🇺🇸\n🔌\nوضعیت : متصل تا زمان فیلتر\nvless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig\nvless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&headerType=http&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%40FreakConfig\nvless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\ntrojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig\nvless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig\ntrojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig\nvless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@ip.kickfarsi.com:8443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=ger2.kickfarsi.com&fp=chrome&type=xhttp&allowInsecure=0&sni=ger2.kickfarsi.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n👑\nدریافت 1 گیگ کانفیگ رایگان روزانه\n«\nدریافت\n»\n⚡\n@FreakConfig",
         "date": "2026-07-25T02:47:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "FreakConfig_8714_0_4423d602.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/FreakConfig/8714"
       },
@@ -22256,6 +22242,40 @@
     ],
     "withyashar": [
       {
+        "id": 19636,
+        "text": "ترامپ در مراسم شام انجمن خبرنگاران کاخ سفید (WHCA):\n«برای مثال، در دوران دولت من، آن رژیم(خامنه ای اول)که زمانی همه از آن می‌ترسیدند و بی‌وقفه به آمریکا حمله می‌کرد، سرنگون شده است. رهبران سابقش برکنار شده‌اند و حالا توسط یک دیکتاتور گِی (خامنه ای دوم) اداره می‌شود و با اختلافات داخلی دست‌وپنجه نرم می‌کند. اما من به نوبه خودم برای باری وایس در CBS News بهترین‌ها را آرزو می‌کنم.»\n﻿\n@WarRoom",
+        "date": "2026-07-25T05:33:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_19636_0_e389ca76.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/19636"
+      },
+      {
+        "id": 19635,
+        "text": "ترامپ به روزنامه‌نگاران:\nوقتی من بروم، همه شما ورشکسته خواهید شد. مدل کسب‌وکارتان تمام می‌شود.\nوقتی من نباشم، شما ورشکسته خواهید شد. کسی برای گزارش دادن وجود نخواهد داشت.\nهیچ‌کس به دیگری اهمیت نمی‌دهد.\n@WarRoom",
+        "date": "2026-07-25T05:24:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_19635_0_e389ca76.jpg"
+          },
+          {
+            "type": "video",
+            "file": "withyashar_19635_1_49eebcbb.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/19635"
+      },
+      {
         "id": 19634,
         "text": "از شاهزاده سلطان عربستان هم سوخترسان داره بلند میشه… @WarRoom\n🚨",
         "date": "2026-07-25T00:35:05+00:00",
@@ -23882,40 +23902,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/19533"
-      },
-      {
-        "id": 19532,
-        "text": "گزارش انفجار قشمممم\n🚨\n🚨\n🚨\n@WarRoom",
-        "date": "2026-07-23T23:27:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_19532_0_96e54754.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/19532"
-      },
-      {
-        "id": 19531,
-        "text": "اهواز کل شهر شد دود\n@WarRoom",
-        "date": "2026-07-23T23:23:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_19531_0_96e54754.jpg"
-          },
-          {
-            "type": "video",
-            "file": "withyashar_19531_1_c9ce98b0.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/19531"
       }
     ],
     "MediaMardom": [
@@ -25105,6 +25091,21 @@
     ],
     "ProxyMTProto": [
       {
+        "id": 49440,
+        "text": "Server:\ntgb92cf27d.koshkaproxy.shop\nPort:\n443\nSecret:\nee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70\n@ProxyMTProto",
+        "date": "2026-07-25T05:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49440_0_606fe747.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49440"
+      },
+      {
         "id": 49439,
         "text": "Server:\nUnknown\nPort:\n4455\nSecret:\ndd104462821249bd7ac519130220c25d09\n@ProxyMTProto",
         "date": "2026-07-25T05:00:00+00:00",
@@ -26108,16 +26109,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/49341"
-      },
-      {
-        "id": 49340,
-        "text": "Server:\nUnknown\nPort:\n443\nSecret:\nee1e355000114cdb95628c1564225a404b36326334346231662e6b6f73686b6170726f78792e73686f70\n@ProxyMTProto",
-        "date": "2026-07-22T06:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49340"
       }
     ],
     "XpnTeam": [
@@ -33675,6 +33666,25 @@
     ],
     "bg_ae": [
       {
+        "id": 146339,
+        "text": "🔴\nپیروزمند، کارشناس صداوسیما: تا کی قراره غیبت رهبری ادامه پیدا کنه!؟\n◀️\nمجری: تا نابودی کامل عوامل جنگ\n🔴\nپیروزمند: خب اینطوری شاید ۱۰ سال دیگه طول کشید خب ما تا کی اماممونو نبینیم؟ اینطوری همیشه در موضع ضعف میمونیم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-07-25T05:31:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146339_0_c5ad47a2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_146339_1_d770a621.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146339"
+      },
+      {
         "id": 146338,
         "text": "🔴\nپزشکیان:رهبر شهید میومد میگفت با آمریکا مذاکره نکنیم بعد توی خلوت به ما مجوز مذاکره با آمریکا رو میداد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-07-25T05:04:19+00:00",
@@ -34899,16 +34909,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/bg_ae/146232"
-      },
-      {
-        "id": 146231,
-        "text": "🔴\nویدئو مربوط به فعالیت شدید پدافند هوایی در شرق تهران دقایقی قبل.\n‼️\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
-        "date": "2026-07-24T00:35:02+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146231"
       }
     ],
     "maznet": [
@@ -36070,7 +36070,7 @@
       }
     ]
   },
-  "last_update": "2026-07-25T05:23:59.836300+00:00",
+  "last_update": "2026-07-25T05:35:30.174067+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2720,
@@ -36078,14 +36078,14 @@
     "total_files": 1251,
     "total_links": 519,
     "files_by_type": {
-      "image": 1170,
-      "video": 69,
+      "image": 1169,
+      "video": 70,
       "audio": 10,
       "document": 2
     },
     "referenced_files": 1251,
     "existing_media_files": 1251,
-    "total_size_mb": 491.41,
-    "last_calculation": "2026-07-25T05:23:59.851163+00:00"
+    "total_size_mb": 499.46,
+    "last_calculation": "2026-07-25T05:35:30.189966+00:00"
   }
 }
