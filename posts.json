@@ -12182,6 +12182,31 @@
     ],
     "whitedns": [
       {
+        "id": 1304,
+        "text": "آپدیت جدید Aether-GUI v0.6.0 منتشر شد!\nهسته‌ی برنامه رو به نسخه‌ی جدید v1.4.0 ارتقا دادم. تو این نسخه تمرکز اصلی سازنده روی تأمین امنیت MASQUE، فیکس کردن باگ‌های مموری و بالا بردن پایداری اتصالات WireGuard و Gool بوده.\nمنم یه مشارکت کوچولویی روی خود هسته داشتم.\nتغییرات اصلی این آپدیت:\n1-\nامنیت در پروتکل MASQUE:\nقبلاً وقتی وصل می‌شدید، کلاینت هیچ تاییدیه‌ای از سرور نمی‌گرفت و اگر کسی وسط راه سعی می‌کرد با یه سرتیفیکیت فیک گولتون بزنه، برنامه متوجه نمی‌شد. اما الان اتصالات MASQUE سرتیفیکیت سرورهای کلادفلر رو به صورت دقیق (از طریق هش‌های SPKI) بررسی می‌کنن تا دیگه کسی نتونه ترافیک رو شنود کنه.\n2-\nپایداری WireGuard و Gool:\nقبلاً بعضی وقتا برنامه بهتون می‌گفت متصل شدید، در حالی که دیتا اصلاً ردوبدل نمی‌شد و فقط روی یه پروکسی SOCKS5 گیر کرده بود. اما الان یه سیستم بررسی سلامت (Health Check) مداوم داره که اگر دیتایی از سمت سرور برنگرده، خودش به صورت اتوماتیک اتصال رو قطع و دوباره وصل می‌کنه.\n3-\nاتصال مجدد خودکار در Gool:\nتو نسخه‌های قبل اگه تونل بیرونی Gool قطع می‌شد، کل فرآیند کِرَش می‌کرد و خارج می‌شد. الان Gool هم مثل بقیه پروتکل‌ها خودش هوشمندانه دوباره ریکانکت می‌کنه.\n4-\nفیکس شدن نشت مموری (Memory Leak):\nیه باگ رو اعصاب بود که وقتی اتصالتون زیاد قطع و وصل می‌شد، تسک‌های قدیمی تو بک‌گراند باز می‌موندن و آروم‌آروم رمِ سیستم پر می‌شد. این مشکل تو تمام پروتکل‌ها کامل برطرف شد.\n5-\nهوشمندی در مصرف منابع:\nاز این به بعد Aether همون اول کار، تعداد هسته‌های CPU و مقدار رم سیستمتون رو می‌خونه و میزان اسکن همزمان (Concurrency)، بافرهای شبکه و صف‌های داخلیش رو بر همون اساس تنظیم می‌کنه. این قابلیت برای کسایی که می‌خوان ابزار رو روی روترها و بردهای ضعیف‌تر بالا بیارن فوق‌العاده‌ست.\nلینک گیت‌هاب برای دانلود(نسخه‌های مک، لینوکس و ویندوز):\nhttps://github.com/MatinSenPai/Aether-GUI/releases/tag/v0.6.0\n✉️\nt.me/MatinSenPaii",
+        "date": "2026-07-25T02:25:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1304_0_9fbf6d7c.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1304_1_9cd2a986.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/MatinSenPai/Aether-GUI/releases/tag/v0.6.0",
+            "type": "github",
+            "display_text": "https://github.com/MatinSenPai/Aether-GUI/releases/tag/v0.6...."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1304"
+      },
+      {
         "id": 1303,
         "text": "پنج سرور اهدایی و فعال WhiteDNS داشته باشید برای زمان قطعی (کلیک کنید روش کپی میشه)\nServer #1 thx to Rasul\n♥️\nLocation: Turkey\n🇹🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7nwn4e3ICAgdGh4IHRvIFJhc3VsIiwic2VydmVyIjp7ImRvbWFpbiI6InYuYW5vbnltb3VzLm9ic2VydmVyIiwiZW5jcnlwdGlvbl9rZXkiOiJiMjc1MDM5MTk5YjFjOGM5IiwiZW5jcnlwdGlvbl9tZXRob2QiOjN9fX0\nServer #2 thx to Araskhatare\n♥️\nLocation: Germany\n🇩🇪\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6nwn4eqICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InYuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiI5ZGIxNjYwMmM4Yzc3NjcxOWJhZDE3ZWZjOWQxM2E0NCIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #3 thx to Araskhatare\n♥️\nLocation: USA\n🇺🇸\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh7rwn4e4ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6InYuYXJhc2toYXRhcmUuZ2dmZi5uZXQiLCJlbmNyeXB0aW9uX2tleSI6ImVkMGNlZjE2YjcxNTNiOGQ4MzVhMzI3ODYxNTk3YzY0IiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0\nServer #4 thx to Araskhatare\n♥️\nLocation: France\n🇫🇷\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6vwn4e3ICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImIuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiIyZjAyZTNiN2NiNTg3ZjM4M2U0MWM0MmU4ZWYzYWY2MSIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nServer #5 thx to Araskhatare\n♥️\nLocation: UK\n🇬🇧\nstormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgIPCfh6zwn4enICAgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImMuYXJhc2toYXRhcmUxLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiJkYmYwMmYyYWVmZmQzM2QyNDY0M2ViODM4OGY2N2Y0ZCIsImVuY3J5cHRpb25fbWV0aG9kIjoxfX19\nآموزش استفاده از برنامه اندروید\n👇\nhttps://www.youtube.com/watch?v=tz8cj7HzHVI\nآموزش استفاده از برنامه ios\n👇\nhttps://www.youtube.com/watch?v=filwdiPKN90\nآموزش استفاده از برنامه ویندوز\n👇\nhttps://youtu.be/Mc--GlKw2wg\n@whitedns",
         "date": "2026-07-25T02:03:35+00:00",
@@ -14159,21 +14184,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/whitedns/1162"
-      },
-      {
-        "id": 1161,
-        "text": "👆\n⭕️\n⭕️\n⭕️\n⭕️\nموقت :\nپرونده اتصال سریع و اسان برای افرادی که دانش و امکان درست کردن کانفیگ ندارند با چند پست بالا بسته شد\nاین مدل اتصال در صورت قطعی  سراسری کار نخواهد کرد\n⚠️\n⚠️\n⚠️\n⚠️\n⚠️\n⚠️\n⚠️",
-        "date": "2026-07-14T14:02:35+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1161_0_d9112600.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/whitedns/1161"
       }
     ],
     "ZibaNabz": [
@@ -36056,22 +36066,22 @@
       }
     ]
   },
-  "last_update": "2026-07-25T02:15:54.911583+00:00",
+  "last_update": "2026-07-25T02:44:24.295874+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2720,
-    "total_media": 1249,
-    "total_files": 1249,
-    "total_links": 517,
+    "total_media": 1250,
+    "total_files": 1250,
+    "total_links": 518,
     "files_by_type": {
-      "image": 1169,
+      "image": 1170,
       "video": 68,
       "audio": 10,
       "document": 2
     },
-    "referenced_files": 1249,
-    "existing_media_files": 1249,
-    "total_size_mb": 491.07,
-    "last_calculation": "2026-07-25T02:15:54.926726+00:00"
+    "referenced_files": 1250,
+    "existing_media_files": 1250,
+    "total_size_mb": 491.14,
+    "last_calculation": "2026-07-25T02:44:24.310933+00:00"
   }
 }
