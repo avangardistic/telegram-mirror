@@ -24735,6 +24735,21 @@
     ],
     "ProxyMTProto": [
       {
+        "id": 49580,
+        "text": "Server:\ncloud.neoqua.pro\nPort:\n443\nSecret:\nee030089cc0dcc47eab9137c31a92a8ad9636c6f75642e6e656f7175612e70726f\n@ProxyMTProto",
+        "date": "2026-07-29T05:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49580_0_c06f68f5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49580"
+      },
+      {
         "id": 49579,
         "text": "Server:\nUnknown\nPort:\n4443\nSecret:\nEERighJJvXrFGRMCIMjdCQ\n@ProxyMTProto",
         "date": "2026-07-29T05:00:00+00:00",
@@ -25733,16 +25748,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/49480"
-      },
-      {
-        "id": 49479,
-        "text": "Server:\nlogin.veltura.digital\nPort:\n443\nSecret:\nee48a0b26b638c58ad97859fba41e9c21a6c6f67696e2e76656c747572612e6469676974616c\n@ProxyMTProto",
-        "date": "2026-07-26T07:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49479"
       }
     ],
     "XpnTeam": [
@@ -33041,6 +33046,25 @@
     ],
     "bg_ae": [
       {
+        "id": 146717,
+        "text": "ویدیویی از حملات دیروز اسرائیل به غزه\n‼️\n💢\n@Baga_News\n| Король",
+        "date": "2026-07-29T05:31:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_146717_0_d9f71e56.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_146717_1_1d810bd7.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/146717"
+      },
+      {
         "id": 146716,
         "text": "🇮🇷\n👀\n| تسنیم: طبق آماری که به دست آوردیم ۷۵ درصد مردم خواهان کشتن ترامپ و نتانیاهو هستن\n💢\n@Baga_News\n| Король",
         "date": "2026-07-29T05:02:54+00:00",
@@ -34460,16 +34484,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/bg_ae/146610"
-      },
-      {
-        "id": 146609,
-        "text": "💢\nهنوز خبری از اجرایی شدن حکم در دسترس نیست ولی طبق قوانین اسلام اگه اعدام تا طلوع آفتاب [ساعت 05:15] اجرایی نشه، باید این سه نفر بخشیده شن و اعدام لغو میشه.\n💢\n@Baga_News  |    ArT",
-        "date": "2026-07-28T01:05:47+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/146609"
       }
     ],
     "maznet": [
@@ -35691,22 +35705,22 @@
       }
     ]
   },
-  "last_update": "2026-07-29T05:21:26.924238+00:00",
+  "last_update": "2026-07-29T05:31:45.536653+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2726,
-    "total_media": 1168,
-    "total_files": 1168,
+    "total_media": 1171,
+    "total_files": 1171,
     "total_links": 508,
     "files_by_type": {
-      "image": 1083,
-      "video": 75,
+      "image": 1085,
+      "video": 76,
       "audio": 8,
       "document": 2
     },
-    "referenced_files": 1168,
-    "existing_media_files": 1168,
-    "total_size_mb": 482.11,
-    "last_calculation": "2026-07-29T05:21:26.976076+00:00"
+    "referenced_files": 1171,
+    "existing_media_files": 1171,
+    "total_size_mb": 483.42,
+    "last_calculation": "2026-07-29T05:31:45.588356+00:00"
   }
 }
