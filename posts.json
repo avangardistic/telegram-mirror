@@ -14148,6 +14148,21 @@
     ],
     "ZibaNabz": [
       {
+        "id": 24398,
+        "text": "سلام و درود صبحتون بخیر عزیزان دل\n🙂\n❤️",
+        "date": "2026-08-07T04:59:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ZibaNabz_24398_0_697c1c00.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ZibaNabz/24398"
+      },
+      {
         "id": 24397,
         "text": "✅\nجهت تهیه سرویس v2ray  از ربات زیر قبل خرید تست بگیرین و بعد بخرین\n✅\nربات رو استارت کنید [\n@v2rayngsazzbot\n]\n👈",
         "date": "2026-08-06T09:51:28+00:00",
@@ -15172,16 +15187,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ZibaNabz/24257"
-      },
-      {
-        "id": 24256,
-        "text": "#اطلاع_رسانی\nاز سمت دیتاسنتر ایرانمون مشکلی ایجاد شده که درحال پیگیری  هستیم\nلطفا فعلا لینکاتونو بروز نکنید از از لینکای CDN استفاده کنید تا سرویس های Tunnel اوکی شن",
-        "date": "2026-07-10T11:56:50+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ZibaNabz/24256"
       }
     ],
     "echo_center": [
@@ -16765,10 +16770,6 @@
         "date": "2026-08-07T04:13:47+00:00",
         "media": [
           {
-            "type": "image",
-            "file": "Config_HATunnel_70853_0_307bc93b.jpg"
-          },
-          {
             "type": "video",
             "file": "Config_HATunnel_70853_1_0d0e4312.mp4"
           }
@@ -16782,14 +16783,9 @@
         "id": 70852,
         "text": "🦋\nاگه اهل داستانی جوین شو\n📚",
         "date": "2026-08-06T22:09:49+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Config_HATunnel_70852_0_95b9818d.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/Config_HATunnel/70852"
       },
@@ -16797,14 +16793,9 @@
         "id": 70851,
         "text": "‏منم می‌دونم می‌گذره، دوست داشتم خوش بگذره..",
         "date": "2026-08-06T21:39:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Config_HATunnel_70851_0_95b9818d.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/Config_HATunnel/70851"
       },
@@ -16812,14 +16803,9 @@
         "id": 70844,
         "text": "♣️\nنپستر\n@Config_HATunnel",
         "date": "2026-08-06T20:44:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Config_HATunnel_70844_0_95b9818d.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/Config_HATunnel/70844"
       },
@@ -16827,14 +16813,9 @@
         "id": 70834,
         "text": "♣️\nنپستر\n@Config_HATunnel",
         "date": "2026-08-06T20:44:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Config_HATunnel_70834_0_95b9818d.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/Config_HATunnel/70834"
       },
@@ -16842,14 +16823,9 @@
         "id": 70833,
         "text": "نام اثر:\nزیر سایه مادر....\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\n@Config_HATunnel",
         "date": "2026-08-06T20:30:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Config_HATunnel_70833_0_95b9818d.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/Config_HATunnel/70833"
       },
@@ -25316,6 +25292,21 @@
     ],
     "ProxyMTProto": [
       {
+        "id": 49875,
+        "text": "Server:\nUnknown\nPort:\n4455\nSecret:\ndd104462821249bd7ac519130220c25d09\n@ProxyMTProto",
+        "date": "2026-08-07T05:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_49875_0_7c3e6d6e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/49875"
+      },
+      {
         "id": 49874,
         "text": "Server:\nUnknown\nPort:\n443\nSecret:\nee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275\n@ProxyMTProto",
         "date": "2026-08-07T04:30:00+00:00",
@@ -26369,16 +26360,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/49775"
-      },
-      {
-        "id": 49774,
-        "text": "Server:\nchai.mikham.co.uk\nPort:\n8443\nSecret:\nEERighJJvXrFGRMCIMJdCQ\n@ProxyMTProto",
-        "date": "2026-08-03T19:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/49774"
       }
     ],
     "XpnTeam": [
@@ -34031,6 +34012,25 @@
     ],
     "bg_ae": [
       {
+        "id": 147520,
+        "text": "🔴\nفایننشال تایمز گزارش می‌دهد که عوارض در تنگه هرمز «کاملاً قانونی» است و می‌گوید جمهوری اسلامی «سوئزماکسینگ» خواهد کرد.\n‼️\nآنها اشاره می‌کنند که کشورهای دیگر نیز مانند ترکیه و دانمارک عوارض ترانزیت را در آب‌های سرزمینی خود وضع کرده‌اند و به گفته کارشناسان، عوارض در تنگه هرمز «از نظر قانونی قابل دفاع» است.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-07T05:00:24+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_147520_0_9178fc94.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_147520_1_fea9ffe2.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/147520"
+      },
+      {
         "id": 147519,
         "text": "🔴\nخبرنگار حوادث: یه مرد ۳۸ ساله میره کمپ ترک اعتیاد تا مواد مخدر رو ترک کنه. بعد از دو ماه ترک میکنه و برمیگرده خونه. وقتی میرسه خونه میفهمه وقتی نبوده زنش ماشین و تمام طلاهاشو فروخته. همونجا بنزین میریزه رو زن ۳۲ سالش و آتشش میزنه. بعد پشیمون میشه و سعی میکنه با پتو خاموشش کنه ولی نمیتونه و زنش فوت میکنه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-07T04:30:10+00:00",
@@ -35316,16 +35316,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/bg_ae/147391"
-      },
-      {
-        "id": 147390,
-        "text": "🇺🇸\n🇮🇱\nیک مقام آمریکایی به شبکه ۱۲ اسرائیل گفت: ترامپ می‌خواهد به هر قیمتی به یک توافق برسد\n‼️\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-05T09:50:20+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/147390"
       }
     ],
     "maznet": [
@@ -36667,22 +36657,22 @@
       }
     ]
   },
-  "last_update": "2026-08-07T04:35:57.381437+00:00",
+  "last_update": "2026-08-07T05:18:45.871826+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2740,
-    "total_media": 1333,
-    "total_files": 1333,
+    "total_media": 1331,
+    "total_files": 1331,
     "total_links": 514,
     "files_by_type": {
-      "image": 1252,
+      "image": 1250,
       "video": 72,
       "audio": 7,
       "document": 2
     },
-    "referenced_files": 1333,
-    "existing_media_files": 1333,
-    "total_size_mb": 499.99,
-    "last_calculation": "2026-08-07T04:35:57.399092+00:00"
+    "referenced_files": 1331,
+    "existing_media_files": 1331,
+    "total_size_mb": 500.0,
+    "last_calculation": "2026-08-07T05:18:45.881719+00:00"
   }
 }
