@@ -8521,6 +8521,25 @@
     ],
     "IranintlTV": [
       {
+        "id": 352738,
+        "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «در ایران، مسافرکشی یکی از راه‌های اصلی تامین درآمد برای بسیاری از بیکاران است و افزایش قیمت بنزین و حذف سهمیه‌ها می‌تواند نارضایتی میلیون‌ها راننده را به دنبال داشته باشد. با افزایش احتمالی قیمت بنزین به لیتری ۸۷ هزار تومان که گفته می‌شود از کرمان آغاز خواهد شد، رانندگان مسافرکش ممکن است به یکی از محورهای اصلی اعتراضات آینده علیه حکومت تبدیل شوند.»‌\n@iranintltv",
+        "date": "2026-08-15T21:34:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352738_0_5e6f65ee.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_352738_1_ae6e33eb.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352738"
+      },
+      {
         "id": 352737,
         "text": "ابراهیم عزیزی، رییس كميسيون امنيت ملی و سياست خارجی مجلس، در ایکس نوشت: «رییس‌جمهوری آمریکا باید به جای لاف‌زنی‌های بی‌پایانش درباره تنگه هرمز، نگران امنیت خودش باشد؛ پیش از آنکه کارش به پنهان شدن در یک کامیون حمل غذا بکشد.»\nhttps://iranintl.com/202608156099",
         "date": "2026-08-15T21:11:08+00:00",
@@ -9754,16 +9773,6 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/352636"
-      },
-      {
-        "id": 352635,
-        "text": "فریدون از انزلی: ۵۰ قمارخانه در شهرما باز است؛ اما من بیست‌ویک خانگی بازی کنم، مامور می‌فهمد\n@iranintltv",
-        "date": "2026-08-15T06:32:23+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352635"
       }
     ],
     "tavaanatech": [
@@ -14880,6 +14889,236 @@
     ],
     "echo_center": [
       {
+        "id": 7106,
+        "text": "آموزش fragment+fingerprint (جایگزین sni-spoofing) برای رفع فیلتر دامنه و رفع محدودیت آپلود برای کانفیگهای کلودفلر (ورکر/cdn) بر روی اندروید:  ۱. ابتدا اپ PattNG را نصب کنید: https://github.com/patterniha/PattNG/releases (این اپ کاملا مشابه v2rayNG میباشد و…",
+        "date": "2026-08-15T21:52:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "echo_center_7106_0_fe435dd4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "echo_center_7106_1_0512bc09.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/patterniha/PattNG/releases",
+            "type": "github",
+            "display_text": "https://github.com/patterniha/PattNG/releases"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/echo_center/7106"
+      },
+      {
+        "id": 7102,
+        "text": "آموزش fragment+fingerprint (جایگزین sni-spoofing) برای رفع فیلتر دامنه و رفع محدودیت آپلود برای کانفیگهای کلودفلر (ورکر/cdn) بر روی اندروید:\n۱. ابتدا اپ PattNG را نصب کنید:\nhttps://github.com/patterniha/PattNG/releases\n(این اپ کاملا مشابه v2rayNG میباشد و صرفا امکانات اضافی مورد نیاز به آن اضافه شده است)\n۲. کانفیگ خود را وارد برنامه کنید و edit (علامت مداد) را بزنید.\n۳. در قسمت آدرس مقدار\n188.114.97.6\nو یا هر آیپی سالم دیگر کلودفلر را وارد کنید.\n۴. در قسمت finalMask کل عبارت زیر را وارد کنید:\n{\"tcp\": [{\"type\": \"fragment\", \"settings\": {\"packets\": \"tlshello\", \"lengths\": [\"5\", \"94\", \"1\"], \"delays\": [\"0\"], \"maxSplit\": \"0\"}},{\"type\": \"fragment\", \"settings\": {\"packets\": \"1-1\", \"lengths\": [\"109\", \"1\"], \"delays\": [\"1\"], \"maxSplit\": \"355\"}}]}\n۵. نوع فینگرپرینت را unsafe انتخاب کنید.\nادامه در پست بعد ...",
+        "date": "2026-08-15T21:52:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "echo_center_7102_0_fe435dd4.jpg"
+          },
+          {
+            "type": "image",
+            "file": "echo_center_7102_1_b1a5eadc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "echo_center_7102_2_38a33010.jpg"
+          },
+          {
+            "type": "image",
+            "file": "echo_center_7102_3_22a287b0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "echo_center_7102_4_919a3cf1.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/patterniha/PattNG/releases",
+            "type": "github",
+            "display_text": "https://github.com/patterniha/PattNG/releases"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/echo_center/7102"
+      },
+      {
+        "id": 7101,
+        "text": "دلیل فعالیت کممون به خاطر مشغله و کاری که داریم هست وگرنه هستیم هرموقع که نیازه باشیم.\nهمچنانم تا آخوند کفن نشود، این وطن، وطن نشود",
+        "date": "2026-08-15T21:48:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "echo_center_7101_0_fe435dd4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/echo_center/7101"
+      },
+      {
+        "id": 7100,
+        "text": "🛟\nبا این سایت میتونید ماهانه ۵۰گیگ رایگان کانفیگ بگیرید  freesocks.org  نه به رفرال نیاز داره نه ایمیل یا شماره موبایل؛ زیر ۳۰ثانیه میتونید کانفیگ رو دریافت کنید.  اون مرحله که رفرال میخواد، اجباری نیست، نزنید.  با اینترنت رایتل تست کردم، پینگ نمیداد، همراه‌اول…",
+        "date": "2026-08-15T21:42:26+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "echo_center_7100_0_fe435dd4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/echo_center/7100"
+      },
+      {
+        "id": 7099,
+        "text": "اگر تست کردید و متصل شدید یه بیلاخ بزارید مثل همیشه\n👍\nو بفرستید بقیه هم وصل بمونن",
+        "date": "2026-08-15T21:36:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "echo_center_7099_0_fe435dd4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/echo_center/7099"
+      },
+      {
+        "id": 7098,
+        "text": "https://t.me/proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+        "date": "2026-08-15T21:34:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "echo_center_7098_0_fe435dd4.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=silver.ciaude.co.uk&port=2096&secr..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/echo_center/7098"
+      },
+      {
+        "id": 7097,
+        "text": "https://t.me/proxy?server=75pib.life.198-44.ir.&port=8443&secret=ee6321048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d",
+        "date": "2026-08-15T21:34:40+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "echo_center_7097_0_fe435dd4.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/proxy?server=75pib.life.198-44.ir.&port=8443&secret=ee6321048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=75pib.life.198-44.ir.&port=8443&se..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/echo_center/7097"
+      },
+      {
+        "id": 7096,
+        "text": "https://t.me/proxy?server=www.weblog.co.im&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+        "date": "2026-08-15T21:34:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "echo_center_7096_0_fe435dd4.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/proxy?server=www.weblog.co.im&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+            "type": "telegram",
+            "display_text": "https://t.me/proxy?server=www.weblog.co.im&port=443&secret=e..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/echo_center/7096"
+      },
+      {
+        "id": 7095,
+        "text": "vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#%40Echo_Center\n@Echo_Center",
+        "date": "2026-08-15T21:31:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "echo_center_7095_0_fe435dd4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/echo_center/7095"
+      },
+      {
+        "id": 7094,
+        "text": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=musiclovers85%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%40Echo_Center\n@Echo_Center",
+        "date": "2026-08-15T21:31:18+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "echo_center_7094_0_fe435dd4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/echo_center/7094"
+      },
+      {
+        "id": 7093,
+        "text": "وضعيت اينترنتتون چطوره؟\nاگه كانفيگ نياز داريد بيلاخ بزاريد بفرستم",
+        "date": "2026-08-15T21:29:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "echo_center_7093_0_fe435dd4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/echo_center/7093"
+      },
+      {
+        "id": 7092,
+        "text": "اپلیکیشن بله از تمامی پلتفرم های ایرانی حذف شد!\n@Echo_Center",
+        "date": "2026-08-15T21:28:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "echo_center_7092_0_fe435dd4.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/echo_center/7092"
+      },
+      {
         "id": 7091,
         "text": "اگه کانفیگ‌هایی که دارید از امروز ظهر قطع شده، با این روشی که متین گفت میتونید درستش کنید.\nکافیه کانفیگ vless رو توی این سایت وارد کنید و بعدش کانفیگ جدیدی که بهتون میده رو کپی کنید و وارد کلاینت کنید.\nتوجه کنید که ساب‌لینک ندید بهش، فقط تک تک کانفیگ‌های vless بدید بهش با پورت های مختلفی که کار میکرد براتون",
         "date": "2026-08-15T21:04:40+00:00",
@@ -16394,141 +16633,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/echo_center/7004"
-      },
-      {
-        "id": 7003,
-        "text": "نقش بیژن مرتضوی توی اجرای بین دو نیمه فینال جام‌جهانی،\nیه جورایی مثل نقش امام سجاد توی جنگ با یزیده.\nبا این وضع که بیژن، ساز توی دستش بود و سجاد تخماش =))))\n@Echo_Center",
-        "date": "2026-07-19T21:00:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "echo_center_7003_0_eb17f80f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/echo_center/7003"
-      },
-      {
-        "id": 7002,
-        "text": "انقد گرمه که فقط میشه گفت تف تو ذات آخوند\n@Echo_Center",
-        "date": "2026-07-19T16:03:26+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "echo_center_7002_0_eb17f80f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/echo_center/7002"
-      },
-      {
-        "id": 7001,
-        "text": "@Echo_Center",
-        "date": "2026-07-19T13:13:47+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "echo_center_7001_0_eb17f80f.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/echo_center/7001"
-      },
-      {
-        "id": 7000,
-        "text": "@Echo_Center",
-        "date": "2026-07-19T13:09:40+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/echo_center/7000"
-      },
-      {
-        "id": 6999,
-        "text": "پنج شیش ماه از جنگ گذشته، خون از دماغ یه آمریکایی نیومده! @Echo_Center",
-        "date": "2026-07-19T11:05:53+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/echo_center/6999"
-      },
-      {
-        "id": 6998,
-        "text": "ترامپ گفته در های جهنم رو باز می‌کنیم.\nفکر میکنه تو بهشتیم الان\n😏\n@Echo_Center",
-        "date": "2026-07-19T09:21:19+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/echo_center/6998"
-      },
-      {
-        "id": 6997,
-        "text": "حمله زمینی اصلا شوخی نیست .\nمثلا با تانک و نفربر میان وسط شهر.\nیا مثلا با گاز اشک‌آور همه‌رو هدف قرار میدن.\nیا مثلا از راه دور با اسنایپر همه‌رو هدشات میکنن.\nیا با تفنگ جنگی میان رگبار میبندن .\nیا با موتورهای سنگین میان آدمو دوره و شلیک مستقیم میکنن.\nمیرن تو بیمارستان‌ها تیر خلاص\n@Echo_Center",
-        "date": "2026-07-18T20:56:48+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/echo_center/6997"
-      },
-      {
-        "id": 6996,
-        "text": "خدا بخیر کنه!\n@Echo_Center",
-        "date": "2026-07-18T18:09:38+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/echo_center/6996"
-      },
-      {
-        "id": 6995,
-        "text": "یعنی هیچ پلنی برای دفاع ندارن، میگن بزنن ما هم میزنیم.\nو اینطوری میشه که چند وقت دیگه از ایران یه بیابون میمونه.\n@Echo_Center",
-        "date": "2026-07-18T16:08:08+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/echo_center/6995"
-      },
-      {
-        "id": 6994,
-        "text": "این اسلیپ‌نت‌ها رو داشته باشید.\nslipnet-enc://AfCoXuAutYmorJ8bCxYz9iMmscmup+TzSJE/cdYsMLJUCFrjFCblPOpaqLjgLGYxRgdQGkTjUfv86UcHg1vixOn9WuIjCwJKHOSVY47hx9jCFI8MbUVhe5TuD3ivHPZlMskSqoosFAAyDWfieK3Hqvp2ySIOnS7us4OVzm8pdvjrX6K7USPrVyMWXjrbaCPixImmE2KEIPX+zsyLJOWuZCbYm4SVTDI47RCtbw/Ui970c9gDZBBPa0mGAKptRpis/sa1g9upPScyr+AyYinMgPV+nPQLs76BdLlCtX4Kdcse8/SNC/bZzTB/PVI5OZzcIfNFbTk9hQeh/koR0PaIACDK5xkf5EZij0soSW8/kXXkaGAHxksB9rKXsl/1OX8D8XBe/2SSWuet+Vuby1/FWy1MQIDdEMcKxYS9twzXwsKlhZ++QVpKVf64rw//paKZgFMnC6yeyyWe353vVzI+XOXDayriWk8jDGj9dhB7abwz0wsDwYkW9SvDBpdnhW9TI7cEVJ4LapLJeBufB5kiP5s2lOz+LAjuDT29Mghos+IwqVlfw4zafGcqsRVF5xRxEfGCCaJXf6Nhigs2IAVhP/iGiA+LfE4fOOx2u4Nh265lD9Dk3aeBxetvvzwjfKfTtJcThMB+qpNWifvqAZoeVw==\nslipnet-enc://AbfWBrObvx782684stjz8WJ9R2BTLHZsMBYywXzxtHw2RXNpoYJmf5HnStwZoIFC1xg2qsyId0KLm4loq17eScUEwjQEq/gMXOOMPRSFBuF552N+C8DTuJq7B56bAYTk+45qfvI/AqVEBjEJ7JoDXahlmqtxSHLLkMnucDNXi8Sz+DY886G72ZXcGOa+lSHLoXBZ8XqdVywetBMRgQYnGGtYpfE5xH5ouFLexjn8IuKqZc9oFlu1z/4ad8cXD9hv7BV7kDjzFCa7VL1Wu7/eSg9Q3XKIBxqWLOkDPnSZBytlU36KtkXiqTFmIr1nBEkRWdLmg7IjtLXjZMZtJzCFCZRONeX4euL5HxVm/9qak+ZXIM2vpN1HX+krWXTphs7xLjqKS6kRabxUXiLipXESORyCKzGQVwaniVv8dpksJB3yZLxrZ6ON6etw/OSfDwoL6Q3mjM28PeZhsW78zKwVWvMif0uyMsTx2epLdSF1O5xGfqUFS4wr27Rt8eAIJCaqv0iUsZU=\nslipnet-enc://ASz+HQzBGtyqRcPePd6pit8Px5VMi+4nm+FRDRKRRa9gohZ54nR2AiHD9SHrZWhq8IbabP/gJDBBO3R8RTJyWob7svFOtG3LPfyjHgO93OMbrelvmaE2HJS+u0KJHjo7ayu8+aU94HmTy2gHKU7IxdCEGKae1auLRKemskTPzM6Pu0oqIoCUgHBGxxxEXdyU+PBYas2J+6Y9w+GuS3GI4Yhh9h8CMdpYXgchz6I1jO5U8Qicj/MTZM8VabUTpH4BX7xP9FQHKXwjM5wCAiWWW4TD1cV4VN3zAo1JyXwMlX6yCPG4SSa0x/b5ZCyI/4jQNiHyI4RyqCmKwFnfJxn2+Z2Qj0e8RihC61Y7FXqF3ue2Z0a0rrfwWEm9J5IGwvvFfTtyarNFsaLLntdp6rCfZ7BAs0SzijkQUjrkp3I/WEfJBumdEHiTA0PB373FcwYLNOXOMNXU8skblmc5dYd9OBxTyU+XcdQAcsfvTlkvcsUc3ViGCApETfeI4VgvEsmAepnxn1BtrZpzRbRT+RIFCo274gdMz1kLofDXel4bIaH0GaYwqFFC62xKNMPoW9ApcMLBio/V59lE8vjNbwq0H0PADrdW3A==\n@Echo_Center",
-        "date": "2026-07-18T15:28:28+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/echo_center/6994"
-      },
-      {
-        "id": 6993,
-        "text": "اگرچه قضیه ترند شدن \"لغو عضویت جانفدا\" در نتایج گوگل بزرگنمایی شده، اما یه نقل‌قولی هست که میگه \"وقتی دیکتاتورها در حال سقوط هستند، فقط دو گروه کنارشان می‌مانند: هم‌پیمانانشان و احمق‌ها\".\n🔗\nᴡᴇʙꜱɪᴛᴇ\n•\nᴠᴘɴʜᴜʙ\n•\nɢɪᴛʜᴜʙᴍɪʀʀᴏʀ\n@ircfspace",
-        "date": "2026-07-18T15:24:58+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/echo_center/6993"
-      },
-      {
-        "id": 6992,
-        "text": "بنظرم بیاید برای لغو جانفدا نفری 1تومن بگیرید اینجوری هزینه جنگتون در میاد  @Echo_Center",
-        "date": "2026-07-18T15:24:21+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/echo_center/6992"
       }
     ],
     "Config_HATunnel": [
@@ -18964,6 +19068,61 @@
     ],
     "FreakConfig": [
       {
+        "id": 9167,
+        "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇨🇦\n🇩🇪\n🔌\nوضعیت : متصل تا زمان فیلتر\nvless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig\nvless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig\nvless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nsocks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n👑\nدریافت 1 گیگ کانفیگ رایگان روزانه\n«\nدریافت\n»\n⚡\n@FreakConfig",
+        "date": "2026-08-15T21:33:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "FreakConfig_9167_0_3e1b9921.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/FreakConfig/9167"
+      },
+      {
+        "id": 9166,
+        "text": "اگه هرشب با ۵۰۰ تومن بیاین چنل بت ما، شبی بالای 2 میلیون تومن سود میکنید\n💵\n🙂",
+        "date": "2026-08-15T21:33:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "FreakConfig_9166_0_3e1b9921.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/FreakConfig/9166"
+      },
+      {
+        "id": 9165,
+        "text": "💖\nلیگ های معتبر فوتبال شروع شدن و وقتشه فقط تماشاچی نباشی و کنار فوتبال دیدن سود هم بکنی، با آنالیز تخصصی هرشب برد های ضریب بالا داریم\n😑\nروزانه‌ بالای ۸۰درصد آمار بردمونه\nمیگی نه؟ یه شب\nبیا آمار چک کن\n🫡\nفرم های قطعی امشب رو از دست نده!\n👇\n🅰\n24\nhttps://t.me/+OSLrSo8D0ck4YTZk\nhttps://t.me/+OSLrSo8D0ck4YTZk",
+        "date": "2026-08-15T21:33:06+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "FreakConfig_9165_0_3e1b9921.jpg"
+          },
+          {
+            "type": "image",
+            "file": "FreakConfig_9165_1_8e02d27a.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/+OSLrSo8D0ck4YTZk",
+            "type": "telegram",
+            "display_text": "https://t.me/+OSLrSo8D0ck4YTZk"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/FreakConfig/9165"
+      },
+      {
         "id": 9164,
         "text": "می‌خوام از ایران برم یکی منو فراری بده",
         "date": "2026-08-15T21:02:46+00:00",
@@ -20044,36 +20203,6 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/FreakConfig/9064"
-      },
-      {
-        "id": 9063,
-        "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇩🇪\n🇳🇱\n🔌\nوضعیت : متصل تا زمان فیلتر\nvless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://eda6b321-aa59-4b1e-b823-3616af020b4a@194.5.207.6:443?security=reality&encryption=none&pbk=8Cho6K3KB6Aoty9x_TCAbY3yv7m-ToCHqaKkZTxR3jM&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=play.google.com&sid=d6c3c9#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=kind-wolf.cdn.cachefleet.com#%F0%9F%87%A7%F0%9F%87%AA%40FreakConfig\nvless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=kind-wolf.cdn.cachefleet.com#%F0%9F%87%A7%F0%9F%87%AA%40FreakConfig\nvless://a74099c6-2d46-42f7-b117-cc7ffaf09e63@139.28.98.115:443?security=reality&encryption=none&pbk=uMDJI4EuoKDaY6cCu26RACdCtBnN9DFq0JyhEZMdGhg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig\nvless://0f350a5d-e801-4eca-a1b9-abe9798ad48a@199.232.78.159:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\nvless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n👑\nدریافت 1 گیگ کانفیگ رایگان روزانه\n«\nدریافت\n»\n⚡\n@FreakConfig",
-        "date": "2026-08-10T19:32:40+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/FreakConfig/9063"
-      },
-      {
-        "id": 9062,
-        "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇩🇪\n🇨🇦\nvless://4038f946-bd95-5505-a111-196c05d6d92f@92.42.96.240:443?path=%2F&security=tls&encryption=none&insecure=0&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&allowInsecure=0&sni=mAhaNrEaliteAm.MaHkHan.iR#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://50e636af-b554-4526-94ad-d0f4b34adecc@193.233.255.23:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.sellflow.org#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig\nvless://3217c0c1-240b-4c98-8e06-4c364298fc64@104.16.6.70:8443?mode=packet-up&path=%2Fhome%2Fnovinser%2Fpublic_html%2Fmy%2Fmodules%2Fservers%2Fcdnserver%2Fcdnserver.php&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cd.solidesign.uk#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig\nvless://50e636af-b554-4526-94ad-d0f4b34adecc@193.233.255.24:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.sellflow.org#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig\nvless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@uiv.taguenaby-backend.com:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%224194304-8388608%22%2C%22uplinkHTTPMethod%22%3A%22POST%22%2C%22seqPlacement%22%3A%22query%22%2C%22uplinkChunkSize%22%3A%2232768-65536%22%7D&pbk=VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs&host=status.play.google.com&fp=ios&spx=%2F&type=xhttp&sni=status.play.google.com&sid=49bcf0de6392f0#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig\nvless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig\nvless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@193.233.255.14:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n👑\nدریافت 1 گیگ کانفیگ رایگان روزانه\n⚡\n@FreakConfig",
-        "date": "2026-08-10T17:34:45+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/FreakConfig/9062"
-      },
-      {
-        "id": 9061,
-        "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇩🇪\n🇷🇺\n🔌\nوضعیت : متصل تا زمان فیلتر\nvless://3217c0c1-240b-4c98-8e06-4c364298fc64@91.107.179.123:37801?security=none&encryption=mlkem768x25519plus.native.0rtt.IiGsoDr-_kzB_Q070YWKe1YVWwgdZCUpD5QG6-590Dg&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://ac9f2eb3-b9d6-45f3-9f68-7b84df1d91a4@77.110.101.107:443?mode=auto&path=%2Fapi%2Fv2%2Fsync&security=reality&encryption=none&pbk=9pVPjpnzx4wyhF0Fes5zDlwv5OKhLcTax4UbOQGYyDA&fp=firefox&type=xhttp&sni=www.tradingview.com&sid=3f7a91c2d84e6b10#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.28:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig\nvless://af9471f2-9344-4d84-9fe1-72a264fde38e@153.80.241.60:8443?security=reality&encryption=none&pbk=CX5f7EdRDtVEgZIgh_ZLE7xYOntoVpk2S_t9EFraJGs&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig\nvless://50e636af-b554-4526-94ad-d0f4b34adecc@193.233.255.26:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=at.sellflow.org#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig\nss://YWVzLTEyOC1nY206U3lTV0RhUDhybTFORUswd2RMZG9hVjVDbGtTakZEZnc@173.212.251.231:51058#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig\nvless://c97eb410-3660-1c5c-0b7d-a58e8d4220bd@69.46.46.10:443?path=%2Fws%2Fc97eb410-3660-1c5c-0b7d-a58e8d4220bd&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-fb65.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-fb65.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\nvless://3217c0c1-240b-4c98-8e06-4c364298fc64@104.16.6.70:8443?mode=packet-up&path=%2Fhome%2Fnovinser%2Fpublic_html%2Fmy%2Fmodules%2Fservers%2Fcdnserver%2Fcdnserver.php&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cd.solidesign.uk#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n👑\nدریافت 1 گیگ کانفیگ رایگان روزانه\n«\nدریافت\n»\n⚡\n@FreakConfig",
-        "date": "2026-08-10T15:31:46+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/FreakConfig/9061"
       }
     ],
     "configraygan": [
@@ -23649,6 +23778,25 @@
     ],
     "MediaMardom": [
       {
+        "id": 11265,
+        "text": "🔴\nفلاحتی ، امام جمعه رشت :\nعکس زن رو روی قبرش هک نکنید ، باعث میشه اون زن جهنمی بشه و عذاب بکشه ، کلا نباید عکس زن روی قبر هک یا به هر نوع دیگه ای در بالای قبر وجود داشته باشه !\n❤️\n•\n@MediaMardom",
+        "date": "2026-08-15T21:47:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "MediaMardom_11265_0_cbb2b6a6.jpg"
+          },
+          {
+            "type": "image",
+            "file": "MediaMardom_11265_1_ff3a10fc.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/MediaMardom/11265"
+      },
+      {
         "id": 11264,
         "text": "🔴\nپزشکیان: مسجد یکی از مراکز مهم برای افزایش سطح سواد عمومی جامعه است.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-15T20:51:23+00:00",
@@ -24784,22 +24932,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11155"
-      },
-      {
-        "id": 11154,
-        "text": "⚡️\nشارژ حساب از طریق ارز دیجیتال در ریتزوبت و در این پلتفرم بین المللی و جهانی پیش بینیکنید\n📱\n⚽️\n🇫🇷\n#پاریس\n🆚\n🏴󠁧󠁢󠁥󠁮󠁧󠁿\n#استون_ویلا\n❓\nبازی های حساس اروپایی\nدر ریتزو بت پیشبینی کنید\n⚡️\n1️⃣\n2️⃣\n3️⃣\n4️⃣\n1️⃣\n2️⃣\n3️⃣\n1️⃣\n2️⃣\n3️⃣\n4️⃣\n⚡️\nفرآیند ثبت نام ساده و آسان\n⚡️\nآپشن های متنوع با ضریب بالا\n⚡️\nامکان شارژ حساب با کارت بانکی\n⚡️\nشرطبندی بدون لیمیت روزانه\n♠️\nکازینو آنلاین شبانه روزی\n⚡️\nپشتیبانی از 61 زبان\n🎰\nبونوس 100% اولین واریز\n⚽️\nبونوس 100% ورزشی یکشنبه ها\n📲\nاپلیکیشن موبایل برای اندروید\nG21\n4️⃣\nhttps://RitzoBet.com",
-        "date": "2026-08-12T15:50:51+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://RitzoBet.com",
-            "type": "external",
-            "display_text": "https://RitzoBet.com"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/MediaMardom/11154"
       }
     ],
     "ProxyMTProto": [
@@ -36390,22 +36522,22 @@
       }
     ]
   },
-  "last_update": "2026-08-15T21:23:12.003608+00:00",
+  "last_update": "2026-08-15T21:53:20.843770+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2752,
-    "total_media": 1319,
-    "total_files": 1319,
-    "total_links": 458,
+    "total_media": 1341,
+    "total_files": 1341,
+    "total_links": 463,
     "files_by_type": {
-      "image": 1230,
-      "video": 76,
+      "image": 1251,
+      "video": 77,
       "document": 3,
       "audio": 10
     },
-    "referenced_files": 1319,
-    "existing_media_files": 1319,
-    "total_size_mb": 496.97,
-    "last_calculation": "2026-08-15T21:23:12.019873+00:00"
+    "referenced_files": 1341,
+    "existing_media_files": 1341,
+    "total_size_mb": 498.02,
+    "last_calculation": "2026-08-15T21:53:20.859901+00:00"
   }
 }
