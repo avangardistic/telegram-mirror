@@ -8521,6 +8521,31 @@
     ],
     "IranintlTV": [
       {
+        "id": 352751,
+        "text": "مایک پمپئو، وزیر خارجه پیشین آمریکا، در مصاحبه با فاکس‌نیوز هشدار داد خروج از درگیری با جمهوری اسلامی بدون دستیابی به «پیروزی» می‌تواند اعتماد متحدان واشینگتن را تضعیف و چین، روسیه، [حکومت] ایران و کره شمالی را جسورتر کند.\nپمپئو با درخواست‌ها برای یافتن راهی به‌منظور پایان‌دادن به درگیری مخالفت کرد و گفت چنین اقدامی، حتی اگر در ظاهر مطلوب به نظر برسد، از نگاه رای‌دهندگان آمریکایی و رقبای ایالات متحده به معنای پیروزی نخواهد بود. به گفته او، واشینگتن باید عملیات خود را تا «شکست جمهوری اسلامی» ادامه دهد.\nhttps://iranintl.com/202608164406",
+        "date": "2026-08-16T02:27:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352751_0_5e6f65ee.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_352751_1_85f34841.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608164406",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608164406"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/352751"
+      },
+      {
         "id": 352750,
         "text": "رسانه‌های لبنانی از حملات هوایی اسرائیل به ارتفاعات علی‌طاهر در جنوب لبنان خبر دادند. شامگاه گذشته در این منطقه سه سرباز اسرائیلی در حمله پهپادی حزب‌الله به‌شدت مجروح شدند.\nبه نوشته تایمز اسرائیل، پیش از این حملات، مقام‌های محلی به ساکنان جلیل علیا هشدار داده بودند که در پی عملیات شبانه ارتش اسرائیل در لبنان، صدای انفجار شنیده خواهد شد.\nhttps://iranintl.com/202608153856",
         "date": "2026-08-16T01:00:32+00:00",
@@ -9736,16 +9761,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/352649"
-      },
-      {
-        "id": 352648,
-        "text": "ویدیویی که یک شهروند ارسال کرده نشان می‌دهد قطع برق مکرر در شهرهای مختلف ادامه دارد. هنگام فیلم‌برداری این شهروند برق خانه او قطع شد.",
-        "date": "2026-08-15T07:59:58+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352648"
       }
     ],
     "tavaanatech": [
@@ -11674,6 +11689,31 @@
       }
     ],
     "whitedns": [
+      {
+        "id": 1493,
+        "text": "دوستان سلام :\nبرای حل این مشکل توی ورژن دسکتاپ و مبایل whitevpn لطفا ساب زیر را دستی وارد کنید\nhttps://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/mihomo.yaml\n@whitedns",
+        "date": "2026-08-16T02:29:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1493_0_474fdadb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1493_1_c9e2f083.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/mihomo.yaml",
+            "type": "external",
+            "display_text": "https://raw.githubusercontent.com/iampedii/whitedns-sub/refs..."
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1493"
+      },
       {
         "id": 1492,
         "text": "🌐\nوایت‌استر  —\nنسخه‌ی دسکتاپ بتا\nWhiteAesther Desktop V1.3.1\nیه کلاینت رایگان و متن‌باز برای عبور از فیلترینگ، ساخته‌شده روی هسته‌ی Aether (همون هسته‌ای که تو اپ اندرویدش هم استفاده می‌شه). برای ویندوز، مک و لینوکس؛ کاملاً رایگان و بدون نیاز به کانفیگ دستی.\n✨\nامکانات:\n🔎\nجست‌وجوی خودکار مسیر — به‌جای اینکه شما دنبال کانفیگ سالم بگردید، خود برنامه بهترین دروازه رو پیدا می‌کنه (با MASQUE H2/H3، WireGuard و WARP-in-WARP)\n📊\nنمودار سرعت و تأخیر زنده — تست سرعت واقعی داخل خود برنامه + نمودار پینگ لحظه‌ای\n🖥\nدو حالت اتصال — «فقط این برنامه» (پراکسی محلی) یا «کل سیستم» (همه‌ی اپ‌ها از تونل رد بشن)\n🛡\nکلید قطع اضطراری — اگه تونل قطع بشه، ترافیک رمزنشده لو نمی‌ره\n🔍\nجست‌وجوی تنظیمات با Ctrl+K — هر تنظیمی رو در چند ثانیه پیدا کنید\n🧩\nچندپلتفرمه — ویندوز، مک (اینتل و اپل‌سیلیکون) و لینوکس، هم x86_64 هم arm64\n📖\nمتن‌باز، برای همیشه — کد کامل زیر مجوز AGPL-3.0 روی گیت‌هاب\n⚙️\nنحوه‌ی استفاده:\n1️⃣\nاز لینک زیر، نسخه‌ی مخصوص سیستم‌عاملتون رو دانلود کنید\n2️⃣\nنصب کنید و برنامه رو باز کنید\n3️⃣\nدکمه‌ی Connect رو بزنید و چند لحظه صبر کنید تا مسیر سالم پیدا بشه\n4️⃣\nاگه خواستید کل سیستم از تونل رد بشه، پایین صفحه گزینه‌ی «Whole machine» رو بزنید\n5️⃣\nبرای تنظیمات پیشرفته (پروتکل، DNS، حالت جست‌وجو…) روی Advanced بزنید یا Ctrl+K رو بزنید و اسم تنظیم موردنظرتون رو تایپ کنید\n📥\nدانلود:\ngithub.com/WhiteDNS/WhiteAesther/releases/latest\n💬\nنکته: چون برنامه امضای اپل/مایکروسافت نداره، ممکنه هنگام باز کردن هشدار «ناشر ناشناس» ببینید؛ کافیه روی فایل راست‌کلیک کنید و Open رو بزنید (تو مک هم از System Settings اجازه‌ی اجرا بدید).\n#وایتاستر\n#ضدفیلتر\n#متنباز\nنکته مهم :\n⚠️\n⚠️\n⚠️\n⚠️\n⚠️\n⚠️\n⚠️\n⚠️\n⚠️\nگزینه whole machine همان system proxy هست - این گزینه فقط اپلیکیشن هایی مثل گوگل کروم که امکان ان را دارند پراکسی میکند - برای همین ممکن هست بعضی از اپ های شما پراکسی نشود\nتلاش خواهیم کرد در روزهای اینده امکان TUN را اضافه کنیم\n@whitedns",
@@ -13799,25 +13839,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/whitedns/1345"
-      },
-      {
-        "id": 1344,
-        "text": "عضویت\nدر گروه whitedns\nدر گروه اختصاصی ما عضو شوید لطفا\n🤝\n@whitedns",
-        "date": "2026-07-28T06:04:39+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1344_0_fb7d2731.jpg"
-          },
-          {
-            "type": "image",
-            "file": "whitedns_1344_1_4534fd50.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/whitedns/1344"
       }
     ],
     "ZibaNabz": [
@@ -19027,6 +19048,21 @@
     ],
     "FreakConfig": [
       {
+        "id": 9168,
+        "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇷🇺\n🇺🇸\n🔌\nوضعیت : متصل تا زمان فیلتر\nvless://81df88b4-ab24-4510-dc5f-7ebdbf24ff0a@a2.arshia-nova.ir:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\nss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg@195.133.23.5:30331#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig\nvless://a746a471-0339-41ae-9750-d1f572bde296@172.67.186.142:443?path=%2Fvl%2FlbzuMME2utgQTXnVd5CGjUAy4JtKk9yQ%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ydqbcj3ie4sqjux1ah93x.l9yawn7wagnmfd0-cnzjndc1u24q.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=YDqbCJ3IE4sqJux1AH93x.l9yawn7wAgNMFd0-CnzjnDC1U24q.Workers.dEV#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig\nvless://14e941de-82a6-802c-b0f3-c31697d9692b@69.46.46.40:443?path=%2Fws%2F14e941de-82a6-802c-b0f3-c31697d9692b&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-471c.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-471c.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\nvless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://46102c9e-441e-49b6-9ab6-9de2b585b202@193.181.29.146:443?security=reality&encryption=none&pbk=TK_buEqf86vPwxx15k8BYC2Ln7nkywSQYdLCqDk2KFI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=bc29bbdf41ce2bea#%F0%9F%87%B8%F0%9F%87%AA%40FreakConfig\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n👑\nدریافت 1 گیگ کانفیگ رایگان روزانه\n«\nدریافت\n»\n⚡\n@FreakConfig",
+        "date": "2026-08-16T02:33:29+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "FreakConfig_9168_0_b4fb705a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/FreakConfig/9168"
+      },
+      {
         "id": 9167,
         "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇨🇦\n🇩🇪\n🔌\nوضعیت : متصل تا زمان فیلتر\nvless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig\nvless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig\nvless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nsocks://TjljeUY2anZneTNaRW1DTktlMDR6QklSOjFUZWxlZ3JhbV9Nb2ppVlBO@ch-zur.pvdata.host:1080#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n👑\nدریافت 1 گیگ کانفیگ رایگان روزانه\n«\nدریافت\n»\n⚡\n@FreakConfig",
         "date": "2026-08-15T21:33:19+00:00",
@@ -20117,27 +20153,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/FreakConfig/9065"
-      },
-      {
-        "id": 9064,
-        "text": "🌟\nویدئو\nبازی محبوب Chicky choice\n🌟\nفقط کافیه مرغ از خیابون رد کنی و پولت افزایش بدی\n😍\n💵\n💖\nتوی سایت بت اینجا بازی کن و پیش بینی کن و پول در بیار\n😍\n⬅️\nامکان شارژ با کارت بانکی راحت و امن\n⬅️\nتسویه حساب سریع بدون احراز\n🎁\nهربار شارژ کنی 12% بیشتر شارژ میشی\n✅\n🎁\nاگ باختی هم 10% باختت سایت بهت برگشت میده\n✅\n🚨\nادرس ورود به سایت:\n💠\nhttp://betinja.bet/affiliates/?btag=2760677\n💖\nفیلترشکن خود را روشن کنید و روی کشور مناسب قرار دهید مانند المان،کانادا،امریکا،ترکیه،سنگاپور،فنلاند و...\n⭐\nکانال اطلاع رسانی سایت:\n👇\n🅰\n19\n💠\nhttps://t.me/+N8GVKVWmvEQ3MzI8",
-        "date": "2026-08-10T22:18:21+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "http://betinja.bet/affiliates/?btag=2760677",
-            "type": "external",
-            "display_text": "http://betinja.bet/affiliates/?btag=2760677"
-          },
-          {
-            "url": "https://t.me/+N8GVKVWmvEQ3MzI8",
-            "type": "telegram",
-            "display_text": "https://t.me/+N8GVKVWmvEQ3MzI8"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/FreakConfig/9064"
       }
     ],
     "configraygan": [
@@ -36494,22 +36509,22 @@
       }
     ]
   },
-  "last_update": "2026-08-16T02:26:28.379063+00:00",
+  "last_update": "2026-08-16T03:15:39.541753+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2752,
-    "total_media": 1335,
-    "total_files": 1335,
+    "total_media": 1338,
+    "total_files": 1338,
     "total_links": 463,
     "files_by_type": {
-      "image": 1247,
+      "image": 1250,
       "video": 75,
       "document": 3,
       "audio": 10
     },
-    "referenced_files": 1335,
-    "existing_media_files": 1335,
-    "total_size_mb": 497.03,
-    "last_calculation": "2026-08-16T02:26:28.395438+00:00"
+    "referenced_files": 1338,
+    "existing_media_files": 1338,
+    "total_size_mb": 497.08,
+    "last_calculation": "2026-08-16T03:15:39.557941+00:00"
   }
 }
