@@ -8521,6 +8521,94 @@
     ],
     "IranintlTV": [
       {
+        "id": 352757,
+        "text": "سرخط خبرهای یکشنبه ۲۵ مرداد\n@iranintltv",
+        "date": "2026-08-16T05:01:33+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352757_0_5e6f65ee.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_352757_1_588f68b7.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352757"
+      },
+      {
+        "id": 352756,
+        "text": "سرخط خبرهای یکشنبه ۲۵ مرداد\n@iranintltv",
+        "date": "2026-08-16T05:00:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352756_0_5e6f65ee.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_352756_1_9e005edb.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352756"
+      },
+      {
+        "id": 352755,
+        "text": "علی نهاوندی، رییس مرکز تحقیقات اسلامی مجلس گفت: «آمریکا و اسرائیل و نیز ایادی منطقه‌ای آن‌ها باید مطمئن باشند که هیچ اقدام خصمانه‌ای بدون پاسخ نمی‌ماند و هر ضربه‌ای، هزینه سنگین‌تر و دردناک‌تری به همراه خواهد داشت.»\nبه گزارش خبرگزاری تسنیم، نهاوندی همچنین گفت که بازدارندگی فقط تهدید به پاسخ نیست؛ ایجاد محاسبه‌ای است که در آن، انصراف از جنگ برای دشمن عقلانی‌تر از ادامه آن باشد.\nhttps://iranintl.com/202608165037",
+        "date": "2026-08-16T04:57:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352755_0_5e6f65ee.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_352755_1_95f545d5.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608165037",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608165037"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/352755"
+      },
+      {
+        "id": 352754,
+        "text": "پس از گزارش‌ها درباره حمله هوایی اسرائیل به مناطقی در جنوب لبنان، یسرائیل کاتز، وزیر دفاع اسرائیل در شبکه ایکس نوشت: «هیچ حسابی در هیچ جبهه‌ای تسویه‌نشده باقی نخواهد ماند و به خاطر سربازان و غیرنظامیان خود به هر اقدامی با قدرت پاسخ خواهیم داد.»\nشنبه، ۲۴ مرداد ارتش اسرائیل اعلام کرده بود در واکنش به اقدام حزب‌الله علیه نیروهای این کشور که مطابق با توافق آتش‌بس در منطقه حائل امنیتی فعالیت می‌کنند، به اهداف این گروه در جنوب لبنان حمله کرده است.\nhttps://iranintl.com/202608160466",
+        "date": "2026-08-16T04:37:23+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352754_0_5e6f65ee.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_352754_1_e609fca9.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608160466",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608160466"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/352754"
+      },
+      {
         "id": 352753,
         "text": "خبرگزاری قوه قضاییه از اعدام شهرام صادقی، از معترضان دی‌ماه در کرج، به اتهام «اقدام عملیاتی» به نفع اسرائیل و آمریکا و گروه‌های متخاصم و اقدام «علیه امنیت و منافع ملی» خبر داد. خبرگزاری قوه قضاییه گفت شهرام صادقی به دلیل زیرگرفتن ماموران با خودرو در ۱۸ دی‌ماه بازداشت شده بود.\nhttps://iranintl.com/202608168805",
         "date": "2026-08-16T04:12:18+00:00",
@@ -9751,46 +9839,6 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/352655"
-      },
-      {
-        "id": 352654,
-        "text": "روزنامه اعتماد گزارش داد آلودگی نفتی که از سمت سواحل عمان حرکت کرده بود، به آب‌ها و سواحل جزیره قشم رسیده و بخش‌هایی از جنگل‌های حرا را نیز تحت تاثیر قرار داده است.\nجزییات بیشتر در گفت‌وگو با علی رشید، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-08-15T09:18:48+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352654"
-      },
-      {
-        "id": 352653,
-        "text": "ویدیوی رسیده به ایران اینترنشنال نشان می‌دهد شماری از خانواده‌های مبتلایان به فیبروز (سی‌اف) در اعتراض به بحران گرانی و کمبود دارو روز شنبه مقابل وزارت بهداشت تجمع کردند. فیبروز یا سی‌اف سیستیک یک اختلال ارثی و ژنتیکی است که موجب تولید مخاط غلیظ و چسبناک در ریه‌ها و لوزالمعده می‌شود.",
-        "date": "2026-08-15T08:59:58+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352653"
-      },
-      {
-        "id": 352652,
-        "text": "حسین آقایی، عضو تحریریه ایران‌اینترنشنال، درباره مواضع جدید ترامپ برای تشدید فشار اقتصادی علیه جمهوری اسلامی گفت: «به نظر می‌رسد استراتژی ترامپ در قبال جمهوری اسلامی در حال عبور از حملات نظامی مقطعی و اپیزودیک و حرکت به سمت تشدید محاصره دریایی و فلج کردن اقتصاد جمهوری اسلامی است. با این حال، چنین فشاری به‌تنهایی برای سرنگونی جمهوری اسلامی کافی نیست و تحقق چنین هدفی به اقدامات نظامی موثر و هدفمند در کنار فشار اقتصادی نیاز خواهد داشت.»\n@iranintltv",
-        "date": "2026-08-15T08:55:10+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352652"
-      },
-      {
-        "id": 352651,
-        "text": "🔻\nرسانه‌های ایران با انتشار نامه‌ فسخ قرارداد یاسر آسانی با استقلال که تاریخ ۱۴ جولای ۲۰۲۶، یک ماه پیش از شروع لیگ برتر را دارد، از احتمال غیرقانونی بودن بازی ستاره آلبانیایی آبی‌پوشان خبر داده‌اند. شب گذشته باشگاه مس شهربابک بابت بازی کردن آسانی به فدراسیون فوتبال شکایت کرد.\n🔹\nبه نوشته خبرورزشی، این نامه که محتوای یک ایمیل به باشگاه استقلال است، «از سوی ایجنت یاسر آسانی و به دلیل اختلافات مالی برای باشگاه استقلال ارسال شده» منتشر شده است.\n🔹\nدر نامه با اشاره به «انجام نشدن تعهدات مالی از سوی استقلال» و «همراه با وخامت سریع وضعیت امنیتی در ایران در پی حملات اخیر نیروهای ایالات متحده» آمده که «بازیکن بدین‌وسیله قرارداد استخدامی خود را با اثر فوری و مطابق با ماده ۱۴ مکرر آیین‌نامه وضعیت و انتقال بازیکنان فیفا فسخ می‌کند.»\n🔹\nاز سوی دیگر، علی تاجرنیا، رییس هیات مدیره استقلال شب گذشته دراین‌باره گفت: «ممکن است یک خانم به صورت کلامی به همسرش بگوید من تو را طلاق دادم، اما طلاق رسمی اتفاق نیفتاده باشد. مسئله یاسر آسانی هم دقیقاً از همین جنس است.»\n🔹\nجزییات بیشتر را\nاینجا\nبخوانید.\n@iranintltvsport",
-        "date": "2026-08-15T08:53:30+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352651"
       }
     ],
     "tavaanatech": [
@@ -13893,6 +13941,25 @@
     ],
     "ZibaNabz": [
       {
+        "id": 24443,
+        "text": "والا خب\n@zibanabz",
+        "date": "2026-08-16T04:48:14+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ZibaNabz_24443_0_2f835d9e.jpg"
+          },
+          {
+            "type": "image",
+            "file": "ZibaNabz_24443_1_dd90934e.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ZibaNabz/24443"
+      },
+      {
         "id": 24442,
         "text": "سلام عزیزان روزتون پر برکت و نگاه لطف خدا",
         "date": "2026-08-14T05:07:18+00:00",
@@ -14923,16 +14990,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ZibaNabz/24291"
-      },
-      {
-        "id": 24290,
-        "text": "پرامپت جدید هوش مصنوعی که عکستونو بهش میدید با آهنگ های مورد علاقتون و اینجوری با عکستونو ترکیبش می‌کنه\nپرامپتش:\nThe promt: A cinematic, dreamlike AR visual featuring a central 151 photorealistic person surrounded by floating 3D Spotify/Apple Music interface cards.\nNo dramatic look. The cards orbit around the subject at varying depths-some in the foreground obscuring the figure, others drifting behind. Stvle: Translucent frosted\nglass with glowing borders and rounded edges. Lighting: natural tones, Enhance the photo quality Includes depth of field (blurred background cards) and motion accents, highlighting [songs] :\nFlex Up - Travis Scott, Future, Young Thug,\nFE!N - Travis Scott,\nMUTT - Leon Thomas, Easter Pink - Fakemink\nHeadlines - Drake\nAfter Party - Don Toliver,\nSuperhero - Metro Boomin & Future\nplayer interfaces\n@Zibanabz",
-        "date": "2026-07-18T10:19:29+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ZibaNabz/24290"
       }
     ],
     "echo_center": [
@@ -19101,14 +19158,9 @@
         "id": 9168,
         "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇷🇺\n🇺🇸\n🔌\nوضعیت : متصل تا زمان فیلتر\nvless://81df88b4-ab24-4510-dc5f-7ebdbf24ff0a@a2.arshia-nova.ir:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\nss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg@195.133.23.5:30331#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig\nvless://a746a471-0339-41ae-9750-d1f572bde296@172.67.186.142:443?path=%2Fvl%2FlbzuMME2utgQTXnVd5CGjUAy4JtKk9yQ%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ydqbcj3ie4sqjux1ah93x.l9yawn7wagnmfd0-cnzjndc1u24q.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=YDqbCJ3IE4sqJux1AH93x.l9yawn7wAgNMFd0-CnzjnDC1U24q.Workers.dEV#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig\nvless://14e941de-82a6-802c-b0f3-c31697d9692b@69.46.46.40:443?path=%2Fws%2F14e941de-82a6-802c-b0f3-c31697d9692b&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-471c.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-471c.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\nvless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nvless://46102c9e-441e-49b6-9ab6-9de2b585b202@193.181.29.146:443?security=reality&encryption=none&pbk=TK_buEqf86vPwxx15k8BYC2Ln7nkywSQYdLCqDk2KFI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=bc29bbdf41ce2bea#%F0%9F%87%B8%F0%9F%87%AA%40FreakConfig\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n👑\nدریافت 1 گیگ کانفیگ رایگان روزانه\n«\nدریافت\n»\n⚡\n@FreakConfig",
         "date": "2026-08-16T02:33:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "FreakConfig_9168_0_b4fb705a.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/FreakConfig/9168"
       },
@@ -24970,6 +25022,36 @@
     ],
     "ProxyMTProto": [
       {
+        "id": 50175,
+        "text": "Server:\nKingdom-persia.ir.hey-gardash.info.\nPort:\n1080\nSecret:\n79e344818749bd7ac519130220c25d09\n@ProxyMTProto",
+        "date": "2026-08-16T05:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50175_0_86e2d984.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50175"
+      },
+      {
+        "id": 50174,
+        "text": "Server:\nmax.kimt.click\nPort:\n443\nSecret:\nee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b\n@ProxyMTProto",
+        "date": "2026-08-16T04:30:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50174_0_86e2d984.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50174"
+      },
+      {
         "id": 50173,
         "text": "Server:\napi2.kvakzon.top\nPort:\n2443\nSecret:\neeb2a0e3b5fba31d961cba1437805cf950617069322e6b76616b7a6f6e2e746f70\n@ProxyMTProto",
         "date": "2026-08-15T20:28:00+00:00",
@@ -26048,26 +26130,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50076"
-      },
-      {
-        "id": 50075,
-        "text": "Server:\nbia.guguli.co.uk\nPort:\n443\nSecret:\nee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d\n@ProxyMTProto",
-        "date": "2026-08-13T05:00:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50075"
-      },
-      {
-        "id": 50074,
-        "text": "Server:\ns010.neo-trading.org\nPort:\n8443\nSecret:\nee2c46ee89b4f2c79c1d8325d13091e580647a656e2e7275\n@ProxyMTProto",
-        "date": "2026-08-13T04:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50074"
       }
     ],
     "XpnTeam": [
@@ -31363,18 +31425,9 @@
         "id": 12742,
         "text": "نامشان ماندگار،یادشان جاویدان\n🖤\n🕊\n🎖\n@BestProxyTel1",
         "date": "2026-08-15T23:49:15+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12742_0_c7d34d38.jpg"
-          },
-          {
-            "type": "video",
-            "file": "BestProxyTel1_12742_1_6e7a7b5a.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/12742"
       },
@@ -33674,6 +33727,59 @@
     ],
     "bg_ae": [
       {
+        "id": 148139,
+        "text": "😱\nپایین ترین قیمت کل تلگرام فقط گیگی 1850 تومن!\n👍\nعمرا توی تلگرام همچین با همچین قیمتی بهتون سرور مولتی لوکیشن و تانل بدن\n🖥\nدنبال سرویسی برای استفاده اپلکیشن های\n📷\n✉️\n🎵\n📹\n🐣\n📹\n🔍\nمیگردی که عین آب خوردن واست بالا بیاره؟\n😎\nتا تیم ایزاتا فیلترشکن هست غمت نباشه!\n✅\nضمانت تا آخرین روز اشتراک\n✅\nمولتی لوکیشن با بالاترین سرعت\n✅\nبدون قطعی و لود با بالاترین سرعت\n✅\nدارای سرویس تست برای انجام\n✅\nبالاترین سرعت دانلود و آپلود\n✅\nپشتیبانی آنلاین 24/7\n✅\nتحویل آنی از ربات در هر ساعت از شبانه روز که خواسته باشین\n✅\nقابلیت دریافت نمایندگی\n✅\nسرویس ها تانل میباشند\n⚡\nهمکاری با ما یعنی اینترنت آزاد دست شماست\n💢\nمورد تایید تیم بگانیوز با خیال راحت خرید کنید\n💢\n🤖\nربات خرید مستقیم:\n@ExataVpnBot",
+        "date": "2026-08-16T05:15:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148139_0_8c0e4b47.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148139"
+      },
+      {
+        "id": 148138,
+        "text": "🔴\nوضعیت پاکستانی‌ها توی جشن استقلال کشورشون رو ببینید. بعد فکر کن اینا بین جمهوری اسلامی و آمریکا واسطه شده بودن که جنگ نشه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-16T05:03:17+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148138_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148138_1_89466973.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148138"
+      },
+      {
+        "id": 148137,
+        "text": "شجاع خلیل‌زاده: گلم تو جام جهانی درست بود و ترامپ با دستکاری وار اون رو مردود اعلام کرد\n😂\n😂\n😂\nعکس ترامپ تو اتاق وار رو باور کرده\n😂\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-16T04:31:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148137_0_8c0e4b47.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148137_1_fae321ef.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148137"
+      },
+      {
         "id": 148134,
         "text": "🔴\n🇺🇸\nپست های جدید ترامپ\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-16T04:01:01+00:00",
@@ -35190,36 +35296,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/bg_ae/148025"
-      },
-      {
-        "id": 148024,
-        "text": "💢\nسپاه پاسداران: پهپاد زدیم.\n‼️\n‼️\n💢\n@Baga_News\n| Noll",
-        "date": "2026-08-14T11:29:22+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148024"
-      },
-      {
-        "id": 148023,
-        "text": "تو کنارک که گزارش صدای انفجار میدید مربوط به خنثی سازی مهمات عمل نکرده هست نگران نباشید.\n💢\n@Baga_News\n|\nArT",
-        "date": "2026-08-14T11:29:13+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148023"
-      },
-      {
-        "id": 148022,
-        "text": "⭕️\nمحسن رضایی:\nامریکا به‌زودی خواهد فهمید قدرت سلاح های ما را که قرار است ناوهایشان را به قعر دریا بفرستیم.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-14T11:10:20+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148022"
       }
     ],
     "maznet": [
@@ -36576,22 +36652,22 @@
       }
     ]
   },
-  "last_update": "2026-08-16T04:16:18.770454+00:00",
+  "last_update": "2026-08-16T05:15:38.699890+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2752,
-    "total_media": 1347,
-    "total_files": 1347,
-    "total_links": 468,
+    "total_media": 1361,
+    "total_files": 1361,
+    "total_links": 470,
     "files_by_type": {
-      "image": 1259,
-      "video": 75,
+      "image": 1270,
+      "video": 78,
       "document": 3,
       "audio": 10
     },
-    "referenced_files": 1347,
-    "existing_media_files": 1347,
-    "total_size_mb": 497.63,
-    "last_calculation": "2026-08-16T04:16:18.786639+00:00"
+    "referenced_files": 1361,
+    "existing_media_files": 1361,
+    "total_size_mb": 498.6,
+    "last_calculation": "2026-08-16T05:15:38.713247+00:00"
   }
 }
