@@ -22209,6 +22209,44 @@
     ],
     "withyashar": [
       {
+        "id": 21192,
+        "text": "",
+        "date": "2026-08-18T23:09:51+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21192_0_1657da4e.jpg"
+          },
+          {
+            "type": "audio",
+            "file": "withyashar_21192_1_89793b13.ogg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21192"
+      },
+      {
+        "id": 21191,
+        "text": "",
+        "date": "2026-08-18T22:56:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21191_0_1657da4e.jpg"
+          },
+          {
+            "type": "audio",
+            "file": "withyashar_21191_1_3a88632b.ogg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21191"
+      },
+      {
         "id": 21190,
         "text": "",
         "date": "2026-08-18T22:42:19+00:00",
@@ -23817,36 +23855,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/21088"
-      },
-      {
-        "id": 21087,
-        "text": "ترامپ به فاکس نیوز:\nممکن است در انتخابات اسرائیل از شخص خاصی حمایت کنم\n@WarRoom",
-        "date": "2026-08-17T11:15:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21087_0_08c80fa7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21087"
-      },
-      {
-        "id": 21086,
-        "text": "ترامپ در فاکس‌نیوز هشدار داد که اگر عمان مانع منافع آمریکا شود، این کشور را بمباران خواهد کرد\n@WarRoom",
-        "date": "2026-08-17T11:14:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21086_0_08c80fa7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21086"
       }
     ],
     "MediaMardom": [
@@ -33616,6 +33624,21 @@
     ],
     "bg_ae": [
       {
+        "id": 148340,
+        "text": "🇮🇱\n👀\n|\nبن سبطی، سخنگوی سابق اسرائیل:\nخوش به حال مردم بندرعباس و قشم و غیره که قراره تابع آمریکا شن و پاسپورت آمریکایی بگیرن\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-18T23:19:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148340_0_430c0a4a.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148340"
+      },
+      {
         "id": 148338,
         "text": "🔴\nحمله هوایی اسرائیل علیه تپه علی الطاهر\nدر جنوب لبنان\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-18T22:33:40+00:00",
@@ -35103,16 +35126,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/bg_ae/148235"
-      },
-      {
-        "id": 148234,
-        "text": "عارف :\nسهمیه اول بنزین کاهش نمی‌یابد، اما سهمیهٔ دوم به‌تدریج و در راستای آزادسازی قیمت‌ها کاهش می‌یابد.\nپ.ن :خلاصه اینکه قراره کم کم کار خودشونو انجام بدن\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-17T14:33:46+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148234"
       }
     ],
     "maznet": [
@@ -36469,22 +36482,22 @@
       }
     ]
   },
-  "last_update": "2026-08-18T22:57:16.596058+00:00",
+  "last_update": "2026-08-18T23:24:16.353362+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2755,
-    "total_media": 1290,
-    "total_files": 1290,
+    "total_media": 1293,
+    "total_files": 1293,
     "total_links": 493,
     "files_by_type": {
-      "image": 1202,
+      "image": 1203,
       "video": 70,
       "document": 3,
-      "audio": 15
+      "audio": 17
     },
-    "referenced_files": 1290,
-    "existing_media_files": 1290,
-    "total_size_mb": 497.71,
-    "last_calculation": "2026-08-18T22:57:16.612348+00:00"
+    "referenced_files": 1293,
+    "existing_media_files": 1293,
+    "total_size_mb": 498.5,
+    "last_calculation": "2026-08-18T23:24:16.369316+00:00"
   }
 }
