@@ -22190,6 +22190,21 @@
     ],
     "withyashar": [
       {
+        "id": 21142,
+        "text": "",
+        "date": "2026-08-18T00:04:52+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21142_0_449839bb.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21142"
+      },
+      {
         "id": 21141,
         "text": "@WarRoom\n🕰️",
         "date": "2026-08-17T23:22:58+00:00",
@@ -23785,21 +23800,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/21041"
-      },
-      {
-        "id": 21040,
-        "text": "ستادکل نیروهای مسلح: تا شکست کامل دشمنان آمریکایی اسرائیلی در منطقه و احقاق حق ملت قهرمان ایران و تسلیم دشمن، از خواست مشروع مردم و مطالبات رهبر عزیزمان، در برابر آمریکای متجاوز کوتاه نخواهیم آمد.\n@WarRoom",
-        "date": "2026-08-16T07:29:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21040_0_d1eeffb7.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21040"
       }
     ],
     "MediaMardom": [
@@ -31197,6 +31197,21 @@
     ],
     "BestProxyTel1": [
       {
+        "id": 12753,
+        "text": "پروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\nپروکسی\n|\nپروکسی\n|\nپروکسی\n🎖\n@BestProxyTel1",
+        "date": "2026-08-18T00:29:42+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "BestProxyTel1_12753_0_952afce9.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/BestProxyTel1/12753"
+      },
+      {
         "id": 12752,
         "text": "امروز تولدمه\nآرزو میکنم کل ایران آزاد بشه و ایرانمون رو از این فساد ها نجات بدیم و نزاریم خون جوون هامون پایمال بشه و جشن آزادی رو تک تکمون در کنار هم بگیریم\n❤️\n🎖\n@BestProxyTel1",
         "date": "2026-08-17T22:50:00+00:00",
@@ -32416,16 +32431,6 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/BestProxyTel1/12595"
-      },
-      {
-        "id": 12594,
-        "text": "یه نفر از اکانت رسمی تلگرام پرسیده پاول دورف (مالک تلگرام) کجا قایم میشه؟\nتلگرام جواب داده؛ درباره اون نمیدونم ولی خود منو میتونی تو خونه مامانت پیدا کنی :))))))))\n🎖\n@BestProxyTel1",
-        "date": "2026-08-06T11:49:56+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/BestProxyTel1/12594"
       }
     ],
     "V2rayAlpha": [
@@ -36581,22 +36586,22 @@
       }
     ]
   },
-  "last_update": "2026-08-17T23:55:15.299712+00:00",
+  "last_update": "2026-08-18T00:52:41.754642+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2753,
-    "total_media": 1301,
-    "total_files": 1301,
+    "total_media": 1302,
+    "total_files": 1302,
     "total_links": 508,
     "files_by_type": {
-      "image": 1204,
+      "image": 1205,
       "video": 84,
       "audio": 11,
       "document": 2
     },
-    "referenced_files": 1301,
-    "existing_media_files": 1301,
-    "total_size_mb": 498.38,
-    "last_calculation": "2026-08-17T23:55:15.315716+00:00"
+    "referenced_files": 1302,
+    "existing_media_files": 1302,
+    "total_size_mb": 498.4,
+    "last_calculation": "2026-08-18T00:52:41.771323+00:00"
   }
 }
