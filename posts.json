@@ -33717,6 +33717,25 @@
     ],
     "bg_ae": [
       {
+        "id": 148413,
+        "text": "🆕\n👀\n|\nبه چت جی پی تی این جمله رو بدید تا بر اساس تموم حرفایی که زدید از دید یه روانشناس بهتون بگه چه بیماری روانی دارید یا چطور آدمی هستید\n:\nAnalyze me like a psychologist, but be completely blunt and honest. Don’t try to comfort me or sugarcoat anything.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-19T23:24:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148413_0_2fe6f5e0.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148413_1_807cef0d.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148413"
+      },
+      {
         "id": 148412,
         "text": "🎙\nخبرنگار:\nجوابتون به صحبتای ترامپ درباره تنگه هرمز چیه؟\n🔴\nحداد عادل:\nباید بگیم تنگه، تنگه.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-19T21:34:49+00:00",
@@ -34941,16 +34960,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/bg_ae/148305"
-      },
-      {
-        "id": 148304,
-        "text": "🇺🇸\n👀\n|\nترامپ:\nلیندسی همین چند هفته پیش زنده بود و داشت خوش می‌گذراند! کلاهش را ببین!\n😭\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-18T15:10:18+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148304"
       }
     ],
     "maznet": [
@@ -36337,22 +36346,22 @@
       }
     ]
   },
-  "last_update": "2026-08-19T23:22:43.911716+00:00",
+  "last_update": "2026-08-19T23:55:13.122975+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2759,
-    "total_media": 1268,
-    "total_files": 1268,
+    "total_media": 1270,
+    "total_files": 1270,
     "total_links": 478,
     "files_by_type": {
-      "image": 1185,
+      "image": 1187,
       "video": 67,
       "document": 3,
       "audio": 13
     },
-    "referenced_files": 1268,
-    "existing_media_files": 1268,
-    "total_size_mb": 496.57,
-    "last_calculation": "2026-08-19T23:22:43.921026+00:00"
+    "referenced_files": 1270,
+    "existing_media_files": 1270,
+    "total_size_mb": 496.63,
+    "last_calculation": "2026-08-19T23:55:13.137732+00:00"
   }
 }
