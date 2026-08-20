@@ -1,8 +1,8 @@
 {
-  "last_check": "2026-08-20 03:55:53 UTC",
+  "last_check": "2026-08-20 05:40:08 UTC",
   "repository": "avangardistic/telegram-mirror",
-  "run_id": "32329401911",
-  "health": "cancelled",
+  "run_id": "32335830132",
+  "health": "skipped",
   "media_files": 1281,
-  "media_size": "500M"
+  "media_size": "497M"
 }
