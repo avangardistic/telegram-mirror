@@ -8569,6 +8569,31 @@
     ],
     "IranintlTV": [
       {
+        "id": 353487,
+        "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در گفت‌وگو با رادیو دبلیوای‌بی‌سی ۷۷ با انتقاد از برجام گفت اگر این توافق را لغو نکرده بود، ایران به سلاح هسته‌ای دست پیدا می‌کرد و از آن علیه اسرائیل و کشورهای خاورمیانه استفاده می‌کرد.\nترامپ با اشاره به حملات جمهوری اسلامی به عربستان سعودی، قطر، امارات متحده عربی، کویت و بحرین گفت: «اگر آنها سلاح هسته‌ای داشتند، از آن علیه همه استفاده می‌کردند.» او افزود اگر رییس‌جمهوری نبود، اسرائیل و خاورمیانه با خطر نابودی روبه‌رو می‌شدند.\nرییس‌جمهوری آمریکا همچنین با اشاره به از بین رفتن نیروی دریایی، نیروی هوایی و شماری از رهبران جمهوری اسلامی گفت رسیدن به توافق آسان نیست و «هیچ‌کس نمی‌داند چه کسی رهبری می‌کند.»\nترامپ تاکید کرد بخشی از دشواری رسیدن به توافق با جمهوری اسلامی ناشی از از بین رفتن شماری از رهبران آن است.\nاو در پایان افزود ایران هرگز نمی‌تواند سلاح هسته‌ای داشته باشد و گفت مردم اقدامات آمریکا در این زمینه را ارزشمند می‌دانند و به آن احترام می‌گذارند.\nhttps://iranintl.com/202608202264",
+        "date": "2026-08-21T00:09:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353487_0_45f8f751.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353487_1_4cd53bfc.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608202264",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608202264"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/353487"
+      },
+      {
         "id": 353486,
         "text": "رهبر حزب محافظه‌کار کانادا اعلام کرد به‌صورت مجازی با شاهزاده رضا پهلوی دیدار و گفت‌وگو کرده است.\nاو همچنین گفت از شاهزاده رضا پهلوی برای انجام یک دیدار حضوری به کانادا دعوت کرده است.\nگزارش مهسا مرتضوی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
         "date": "2026-08-20T23:46:11+00:00",
@@ -9906,16 +9931,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353387"
-      },
-      {
-        "id": 353386,
-        "text": "خبرگزاری قوه قضاییه جمهوری اسلامی از اجرای حکم اعدام قائم حسینی، معروف به آرین، خبر داد. این دومین شهروند افغانستانی است که به اتهام مشارکت در اعتراضات انقلاب ملی و در پرونده موسوم به میدان علیخانی اصفهان اعدام می‌شود.\nگفت‌وگو با رضا اکوانیان، روزنامه‌نگار، درباره پرونده قائم حسینی و افزایش صدور و اجرای احکام اعدام علیه زندانیان سیاسی\n@iranintltv",
-        "date": "2026-08-20T09:18:09+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353386"
       }
     ],
     "tavaanatech": [
@@ -12117,6 +12132,21 @@
     ],
     "whitedns": [
       {
+        "id": 1549,
+        "text": "کسی هست بیدار باشه و از WhiteVPN armeabi-v7a استفاده کنه و اپ براش کار نکنه؟\nمیخوام باهم تست کنیم",
+        "date": "2026-08-21T00:39:43+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1549_0_d8a127b7.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/whitedns/1549"
+      },
+      {
         "id": 1548,
         "text": "🚀\nCoreForge Build آپدیت جدید منتشر شد\nhttps://testflight.apple.com/join/DRkT6zny\nاین نسخه یکی از بزرگ‌ترین آپدیت‌های CoreForge تا امروز محسوب میشه.\nاز Build 90 تا Build 100 طی حدود ۲۰ روز:\n• 214 Commit\n• بیش از 411 فایل تغییر کرده\n• بیش از 86,000 خط کد جدید اضافه شده\n• چند Engine و Protocol جدید از پایه اضافه شده\n• بخش بزرگی از سیستم Connection، Routing، Failover و Config Management بازطراحی شده\n###\n🧩\nپروتکل‌ها و Engineهای جدید\n🔹\nOpenVPN\n* پشتیبانی مستقیم از فایل‌های .ovpn\n* UDP و TCP\n* AES-GCM / AEAD\n* AES-CBC برای بعضی سرویس‌های قدیمی‌تر\n* TLS-Crypt\n* Multi-Remote / Multi-Address\n* Username / Password\n* Client Certificate\n* OpenVPN Subscription\n* پشتیبانی بهتر از ProtonVPN، VPNGate، SoftEther و کانفیگ‌های مشابه\n🔹\nTailscale\n* اتصال مستقیم به Tailnet\n* انتخاب Exit Node\n* MagicDNS\n* مدیریت Account داخل CoreForge\n* امکان اتصال به Exit Node حتی بدون انتخاب Config معمولی\n🔹\nCloudflare WARP / MASQUE\n* WARP به‌عنوان یک Outbound واقعی\n* MASQUE روی HTTP/2 و HTTP/3\n* امکان استفاده داخل Chain\n* WARP Endpoint Scanner برای پیدا کردن Endpoint بهتر\n* تست Endpoint با handshake واقعی MASQUE، نه فقط TCP Ping\n🔹\nmKCP\n* پشتیبانی از mKCP مربوط به Xray\n* همه Header Typeهای اصلی\n* قابل استفاده با VLESS و Trojan\n🔹\nECH\nEncrypted ClientHello حالا به صورت واقعی داخل CoreForge اجرا میشه و برای بعضی Transportها از جمله Hysteria2 هم اضافه شده.\n###\n⚡\nLoad Balancer و Failover\nLoad Balancer فقط اسم نیست و حالا Connectionها واقعاً بین Nodeهای انتخاب‌شده مدیریت میشن.\nهمچنین:\n* Config فعال داخل برنامه نمایش داده میشه\n* Exit IP بعد از تغییر Node آپدیت میشه\n* Dead Server Detection سریع‌تر شده\n* Backup Node از قبل آماده نگه داشته میشه\n* اگر Config فعلی از کار بیفته، CoreForge می‌تونه بدون Disconnect کامل به Backup منتقل بشه\n* Backup Pool بعد از Failover دوباره پر میشه\n###\n🌐\nRouting\nسیستم Routing هم تغییر زیادی کرده:\n* Routing Profile شبیه Shadowrocket\n* Rule Actions\n* Iran Direct Preset\n* Iran 2026 Rules\n* category-ir\n* Import کردن Routing Rules از فایل\n* Fragment به‌عنوان Routing Target\n###\n📂\nConfigs و Subscriptionها\nمدیریت Configها تقریباً کامل بازطراحی شده:\n* Swipe برای Ping / Edit / Share / Delete\n* Drag & Drop برای مرتب کردن Sectionها\n* Groupهای Local\n* Bulk Actions\n* forge:// Chain Links\n* Tap-to-Ping-and-Connect\n* Import QR Code از داخل عکس\n* Subscription Folder\n* Rename / Reorder / Export\n* Auto Update جداگانه برای هر Subscription\n* Plan Status\n* تقویم شمسی\nمشکل فایل‌های OpenVPN بزرگ هم برطرف شده؛ برای مثال اگر یک فایل شامل ده‌ها یا صدها Profile باشه، دیگه همه‌ی اون‌ها به‌عنوان یک Config خراب Import نمیشن و Profileها جدا میشن.\n###\n🔧\nFixهای مهم\nدر این نسخه تعداد زیادی Bug مهم هم برطرف شده، از جمله:\n* Crash روی تعداد زیاد Config\n* مشکل Import بعضی لینک‌های VMessAEAD\n* مشکل gRPC پشت Cloudflare\n* مشکل XHTTP که Connect می‌شد ولی Traffic عبور نمی‌کرد\n* مشکل REALITY و extra\n* اصلاح UUIDهای VLESS\n* Lag شدید Config List\n* Writeهای اضافی Keychain\n* آپدیت نشدن Connection Details بعد از Failover\n* UDP برای VMess، Shadowsocks و SOCKS\n* UDP Associate برای Trojan\n* gRPC MultiMode\n* pinnedPeerCertSha256\n* PattNG Fragment / Cipher Suite / Unsafe Fingerprint\n###\n📱\niPad و UI\n* پشتیبانی بهتر از Stage Manager\n* Split View\n* Resizable Window\n* تغییرات Liquid Glass\n* اصلاح Light Mode\n* بهبود Tab Bar و Headerها\n---\n⚠️\nنکته مهم درباره Build\nاین نسخه تغییرات خیلی زیادی داشته و طبیعتاً\n۱۰۰٪ تضمین نمی‌کنیم که تمام قابلیت‌های جدید روی تمام Serverها، ISPها و Configها بدون مشکل کار کنند.\nبعضی قابلیت‌ها هنوز در مرحله‌ی تست واقعی توسط کاربران هستن و ممکنه روی یک Server عالی کار کنن ولی روی Server یا Network دیگه Fail بشن.\nبه‌خصوص قابلیت‌های جدیدی مثل:\nTailscale / WARP / OpenVPN / ECH / Chainهای پیچیده / بعضی حالت‌های VLESS و REALITY\nهنوز نیاز به تست گسترده روی Serverها و اینترنت‌های مختلف دارن.\nپس اگر چیزی Connect نشد یا Connect شد ولی Traffic نداشت، حتماً گزارش کنید و در صورت امکان Config، Log و نوع اینترنت رو هم بفرستید.\nBuild بیشتر از اینکه «نسخه نهایی بدون باگ» باشه، یک جهش بزرگ برای CoreForge ـه و Feedback شما مستقیم روی Fixهای نسخه‌های بعدی تأثیر می‌ذاره.\n🛠️\nCoreForge Build\n⚒️",
         "date": "2026-08-20T11:37:22+00:00",
@@ -14276,31 +14306,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/whitedns/1398"
-      },
-      {
-        "id": 1397,
-        "text": "⏯️\nآموزش دریافت دامنه رایگان و نامحدود\nدیگه لازم نیست برای کانفیگ های شخصیتون دامنه بخرید.\nhttps://youtu.be/Tiods_aCJX8\n@WhiteDNS",
-        "date": "2026-08-03T07:58:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1397_0_25e59eed.jpg"
-          },
-          {
-            "type": "video",
-            "file": "whitedns_1397_1_4af6aa74.mp4"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://youtu.be/Tiods_aCJX8",
-            "type": "youtube",
-            "display_text": "https://youtu.be/Tiods_aCJX8"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1397"
       }
     ],
     "ZibaNabz": [
@@ -36134,22 +36139,22 @@
       }
     ]
   },
-  "last_update": "2026-08-20T23:59:01.630606+00:00",
+  "last_update": "2026-08-21T00:54:44.213674+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2761,
-    "total_media": 1193,
-    "total_files": 1193,
+    "total_media": 1194,
+    "total_files": 1194,
     "total_links": 505,
     "files_by_type": {
-      "image": 1109,
-      "video": 70,
+      "image": 1111,
+      "video": 69,
       "document": 3,
       "audio": 11
     },
-    "referenced_files": 1193,
-    "existing_media_files": 1193,
-    "total_size_mb": 499.4,
-    "last_calculation": "2026-08-20T23:59:01.639971+00:00"
+    "referenced_files": 1194,
+    "existing_media_files": 1194,
+    "total_size_mb": 486.16,
+    "last_calculation": "2026-08-21T00:54:44.228809+00:00"
   }
 }
