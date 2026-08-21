@@ -12216,6 +12216,31 @@
     ],
     "whitedns": [
       {
+        "id": 1552,
+        "text": "سلام خدمت همه دوستان عزیز\n✍️\nاز دیروز گزارش های زیادی روی WhiteVPN روی گوشی های قدیمی گرفتیم که بهمون گفتید نصب نمیشه، یا نصب میشه ولی میزنید روی اتصال، اررور میگیرید.\nما سعی کردیم توی ورژن ۱.۶.۱ که از لینک زیر میتونید دانلود کنید این مورد رو حل کنیم.\nحالا گوشی های اندروید قدیمی‌تر هم میتونن بدون دردسر وصل بشن.\nهمچنین مشکل کانکشن هایی که camouflage داشتند هم توی این ورژن حل شده.\nتغییر دیگه،ای نداشتیم  جز این دو مورد.\nدانلود آخرین نسخه\nhttps://github.com/WhiteDNS/WhiteVPN/releases/latest\nبا تشکر\nتیم WhiteDNS",
+        "date": "2026-08-21T03:25:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1552_0_d8a127b7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1552_1_147fc452.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://github.com/WhiteDNS/WhiteVPN/releases/latest",
+            "type": "github",
+            "display_text": "https://github.com/WhiteDNS/WhiteVPN/releases/latest"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1552"
+      },
+      {
         "id": 1550,
         "text": "دوستان عزیز\nلینک ساب رو باید بعد از کلیک کردن روی دکمه Raw مشابه به عکسی که گذاشتیم کپی کنید.\nلینک\nصحیح WhiteDNS Sub\nhttps://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/mihomo.yaml",
         "date": "2026-08-21T01:56:27+00:00",
@@ -14379,31 +14404,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/whitedns/1401"
-      },
-      {
-        "id": 1399,
-        "text": "🍷\nدرود به همه رفقا...\nآموزش\nسا\nخت کانفیگ Amnezia VPN(وارپ)\n• صبرکنید ای پی ها رو لود کنه\n• بعد یکی انتخاب کنید\n• تیک فعال سازی پارامترهای امنزیا 1.5 حتما بزنید\n• بزنید روی ساخت کانفیگ Amneziawg\n• دانلود کنید وارد کنید داخل Amnezia VPN\n• میتونیدم کانفیگو کپی کنید + بزنید بعد insert بزنید کانفیگ اضافه بشه\n💡\nنکته:روی تمام اپراتور ها متصله هست.\nلینک ابزار(ساخت کانفیگ):\n👇\nhttps://darknessshade.github.io/Amnezia-VPN-Config/\nدانلود اپلیکیشن ios\nدانلود اپلیکیشن اندروید\n@xsfilterrnet\n👑\n@ConfigWireguard\n✅",
-        "date": "2026-08-03T21:34:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1399_0_25e59eed.jpg"
-          },
-          {
-            "type": "video",
-            "file": "whitedns_1399_1_9a8896f7.mp4"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://darknessshade.github.io/Amnezia-VPN-Config/",
-            "type": "external",
-            "display_text": "https://darknessshade.github.io/Amnezia-VPN-Config/"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1399"
       }
     ],
     "ZibaNabz": [
@@ -36242,7 +36242,7 @@
       }
     ]
   },
-  "last_update": "2026-08-21T03:12:38.147297+00:00",
+  "last_update": "2026-08-21T03:37:32.934512+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2761,
@@ -36250,14 +36250,14 @@
     "total_files": 1209,
     "total_links": 511,
     "files_by_type": {
-      "image": 1126,
-      "video": 69,
+      "image": 1127,
+      "video": 68,
       "document": 3,
       "audio": 11
     },
     "referenced_files": 1209,
     "existing_media_files": 1209,
-    "total_size_mb": 486.72,
-    "last_calculation": "2026-08-21T03:12:38.162601+00:00"
+    "total_size_mb": 483.15,
+    "last_calculation": "2026-08-21T03:37:32.949605+00:00"
   }
 }
