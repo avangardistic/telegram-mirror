@@ -8585,6 +8585,25 @@
     ],
     "IranintlTV": [
       {
+        "id": 353620,
+        "text": "در پی حمله با شمشیر به یک دبیرستان در مرکز سوئد، دست‌کم سه نفر زخمی شدند که حال دو نفر از آن‌ها وخیم گزارش شده است. پلیس مهاجم را بازداشت کرده، اما انگیزه این حمله هنوز مشخص نیست.\nگزارش مهران عباسیان، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-08-21T23:05:05+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353620_0_76a8efba.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353620_1_9d2ceae0.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353620"
+      },
+      {
         "id": 353619,
         "text": "🔻\nشیوه بازی و نتایج پرسپولیس در دو هفته نخست لیگ برتر، باعث شده نظر هواداران سرخ‌پوشان نسبت به مهدی تارتار، سرمربی تیم تغییر کند.\n🔹\nتوضیحات رها پوربخش، ایران اینترنشنال در برنامه هت‌تریک\n@iranintltvsport",
         "date": "2026-08-21T22:39:50+00:00",
@@ -9866,16 +9885,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353514"
-      },
-      {
-        "id": 353513,
-        "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال گفت به‌دلیل قطع برق، مجبور است با چراغ‌قوه تلفن همراه خود به کار در کارگاه ادامه دهد.",
-        "date": "2026-08-21T08:03:50+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353513"
       }
     ],
     "tavaanatech": [
@@ -22441,6 +22450,25 @@
     ],
     "withyashar": [
       {
+        "id": 21316,
+        "text": "سنت‌کام : نیروهای ایالات متحده از زمان تقویت محاصره بنادر ایران، ۶۷ کشتی تجاری را تغییر مسیر داده‌اند، ۳ کشتی را غیرفعال کرده‌اند و ۲ کشتی را برای اطمینان از رعایت مقررات به بازجویی و بازرسی برده‌اند. @WarRoom",
+        "date": "2026-08-21T23:18:27+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21316_0_f9a4e265.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_21316_1_03ec9045.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21316"
+      },
+      {
         "id": 21315,
         "text": "تکزاس زیر 1942 و Azul قبول نیستاااا",
         "date": "2026-08-21T22:47:23+00:00",
@@ -24064,28 +24092,28 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/21214"
-      },
+      }
+    ],
+    "MediaMardom": [
       {
-        "id": 21213,
-        "text": "ترامپ: ما تنگه هرمز را کاملاً در اختیار داریم و کنترل آن را در دست داریم.\n@WarRoom",
-        "date": "2026-08-19T15:43:27+00:00",
+        "id": 11403,
+        "text": "🔴\nپیامی که امروز یکی از دختر خانوم‌های سرزمینم که کنکوری بود به دوست‌پسرش فرستاده :\n❤️\n•\n@MediaMardom",
+        "date": "2026-08-21T22:59:14+00:00",
         "media": [
           {
             "type": "image",
-            "file": "withyashar_21213_0_a6ceaf48.jpg"
+            "file": "MediaMardom_11403_0_3556f8ac.jpg"
           },
           {
-            "type": "video",
-            "file": "withyashar_21213_1_0a7d8da9.mp4"
+            "type": "image",
+            "file": "MediaMardom_11403_1_bcfa357c.jpg"
           }
         ],
         "links": [],
         "has_media": true,
         "has_links": false,
-        "source": "https://t.me/withyashar/21213"
-      }
-    ],
-    "MediaMardom": [
+        "source": "https://t.me/MediaMardom/11403"
+      },
       {
         "id": 11402,
         "text": "🔴\nنیویورک‌پست: جمهوری اسلامی در واکنش به تهدید آمریکا برای اعمال تحریم‌های «کمرشکن» با هدف «فروپاشی» حکومت، وعده پاسخی ویرانگر داده.\n❤️\n•\n@MediaMardom",
@@ -25157,16 +25185,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11291"
-      },
-      {
-        "id": 11290,
-        "text": "🔴\nحماس دفترشو از قطر برد ترکیه و این کشور شد پایگاه اصلی حماس\n❤️\n•\n@MediaMardom",
-        "date": "2026-08-16T18:38:26+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/MediaMardom/11290"
       }
     ],
     "ProxyMTProto": [
@@ -36223,22 +36241,22 @@
       }
     ]
   },
-  "last_update": "2026-08-21T22:57:28.716350+00:00",
+  "last_update": "2026-08-21T23:23:09.809150+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2763,
-    "total_media": 1198,
-    "total_files": 1198,
+    "total_media": 1202,
+    "total_files": 1202,
     "total_links": 511,
     "files_by_type": {
-      "image": 1123,
+      "image": 1127,
       "video": 66,
       "document": 3,
       "audio": 6
     },
-    "referenced_files": 1198,
-    "existing_media_files": 1198,
-    "total_size_mb": 472.87,
-    "last_calculation": "2026-08-21T22:57:28.731176+00:00"
+    "referenced_files": 1202,
+    "existing_media_files": 1202,
+    "total_size_mb": 469.91,
+    "last_calculation": "2026-08-21T23:23:09.818070+00:00"
   }
 }
