@@ -22477,6 +22477,25 @@
     ],
     "withyashar": [
       {
+        "id": 21365,
+        "text": "وضعیت من وقتی یه شب دیگه هم باز نزد !\n@WarRoom",
+        "date": "2026-08-22T23:48:59+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21365_0_8409da53.jpg"
+          },
+          {
+            "type": "video",
+            "file": "withyashar_21365_1_fa39bcb9.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21365"
+      },
+      {
         "id": 21364,
         "text": "ترامپ فعلا داره با کانادا کل کل میکنه. توی کانادا همه از دستش کلافه شدن، دیوانه باعث شده وضع خراب بشه و همه چی گرون شده بیش از حد",
         "date": "2026-08-22T22:51:02+00:00",
@@ -24116,21 +24135,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/21264"
-      },
-      {
-        "id": 21263,
-        "text": "ارسالی تایید نشده : یاشار همین الان اهواز صدای شلیک موشک میومد قشنگ ی دودی توی هوا معلوم بود ولی دوربین گوشی اینقدر قوی نیست که بتونه دود رو بگیره\n@WarRoom",
-        "date": "2026-08-20T20:12:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21263_0_a55ae5a5.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21263"
       }
     ],
     "MediaMardom": [
@@ -31641,6 +31645,21 @@
     ],
     "BestProxyTel1": [
       {
+        "id": 12785,
+        "text": "⭕\nویتوری های تازه نفس\nvless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#@BestProxyTel1\nvless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#@BestProxyTel1\nvless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@185.55.240.199:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fr199.mechvpn.online#@BestProxyTel1\nvless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=it2ws.wba-pn.ru#@BestProxyTel1\n🎖\n@BestProxyTel1",
+        "date": "2026-08-22T23:22:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "BestProxyTel1_12785_0_f2dc3e33.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/BestProxyTel1/12785"
+      },
+      {
         "id": 12783,
         "text": "پروکسی فعال\n✅\n📶\n:\nاتصال\n•\nاتصال\n•\nاتصال\n•\nاتصال\n•\nاتصال\n•\nاتصال\n•\nاتصال\n•\nاتصال\n•\nاتصال\n•\nاتصال\n•\nاتصال\n•\nاتصال\n•\nاتصال\n•\nاتصال\n•\nاتصال\n🎖\n@BestProxyTel1",
         "date": "2026-08-22T15:59:50+00:00",
@@ -32869,16 +32888,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/12637"
-      },
-      {
-        "id": 12636,
-        "text": "گوش بدید عشق کنید",
-        "date": "2026-08-08T17:28:24+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/BestProxyTel1/12636"
       }
     ],
     "V2rayAlpha": [
@@ -36695,22 +36704,22 @@
       }
     ]
   },
-  "last_update": "2026-08-22T23:21:34.429812+00:00",
+  "last_update": "2026-08-22T23:52:16.085761+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2765,
-    "total_media": 1297,
-    "total_files": 1297,
+    "total_media": 1299,
+    "total_files": 1299,
     "total_links": 511,
     "files_by_type": {
-      "image": 1209,
-      "video": 77,
+      "image": 1210,
+      "video": 78,
       "document": 3,
       "audio": 8
     },
-    "referenced_files": 1297,
-    "existing_media_files": 1297,
-    "total_size_mb": 493.19,
-    "last_calculation": "2026-08-22T23:21:34.445521+00:00"
+    "referenced_files": 1299,
+    "existing_media_files": 1299,
+    "total_size_mb": 495.97,
+    "last_calculation": "2026-08-22T23:52:16.101706+00:00"
   }
 }
