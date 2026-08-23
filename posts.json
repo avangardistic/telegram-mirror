@@ -7516,14 +7516,9 @@
         "id": 4442,
         "text": "🇮🇷\nکانفیگ نپستر برای تمومی اپراتور ها نامحدود مولتی لوکیشن (ممکنه یسری مناطق کار بکنه و یسری مناطق دیگ کار نکنه)\n⭐️\n﻿\n📲\nنحوه اتصال داخل اندروید\n(کلیک کن)\n👉\n〰️\nخرید فیلترشکن نامحدود\n✅\n🕛\n«\n@Broz_time",
         "date": "2026-08-23T18:36:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "Broz_time_4442_0_4c2e63bb.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/Broz_time/4442"
       },
@@ -8640,21 +8635,75 @@
     ],
     "IranintlTV": [
       {
-        "id": 353880,
-        "text": "ایتالیا، آلمان، اسپانیا، اتریش، لهستان و پرتغال در نامه‌ای مشترک به اتحادیه اروپا خواستار بررسی وضع مالیات بر سودهای مازاد شرکت‌های نفتی شدند.\nوزرای دارایی این کشورها با اشاره به افزایش سود شرکت‌های نفتی، وضعیت کنونی را بزرگ‌ترین شوک عرضه در چند دهه اخیر توصیف کردند و درباره افزایش نارضایتی عمومی هشدار دادند.\nگزارش صدف باغبانی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-08-23T19:16:43+00:00",
+        "id": 353883,
+        "text": "🔻\nخلاصه بازی استقلال - سپاهان با گزارش مزدک میرزایی، ایران اینترنشنال در برنامه هت‌تریک\n@iranintltvsport",
+        "date": "2026-08-23T19:48:33+00:00",
         "media": [
           {
             "type": "image",
-            "file": "IranintlTV_353880_0_3b66fd4f.jpg"
+            "file": "IranintlTV_353883_0_3b66fd4f.jpg"
           },
           {
             "type": "video",
-            "file": "IranintlTV_353880_1_82d91f21.mp4"
+            "file": "IranintlTV_353883_1_19e76718.mp4"
           }
         ],
         "links": [],
         "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353883"
+      },
+      {
+        "id": 353882,
+        "text": "🔻\nسهراب بختیاری‌زاده، سرمربی استقلال پس از پیروزی بر سپاهان گفت: «این را قلبی می‌گویم، من خودم کمترین سهم را در این موفقیت چند هفته اخیر دارم و بیشترین سهم را بازیکنان دارند.»\n🔹\nاو درباره نیمکت‌نشین کردن علیرضا کوشکی گفت: «همه تیم ما، برای استقلال تلاش می‌کنیم. باید جدا از رفتار دوستانه، نظم و دیسیپلین را رعایت کنیم. من به کوشکی خیلی اعتقاد دارم و می‌شد امروز از اول بازی کند ولی من احساس کردم که نیاز است او در نیمه دوم به میدان برود.»\n🔹\nسرمربی استقلال گفت: «همه ما باید تاوان رفتار اشتباه خودمان را بدهیم و به اندازه جریمه شویم و از طرفی بقیه بازیکنان هم باید بدانند که برای من مهم هستند. ممکن بود که امروز نبود کوشکی به ما فشار بیاورد ولی من آینده تیم برایم مهم بود. آینده کوشکی هم برای من مهم بود. او می‌تواند برای تیم ملی مفید باشد.»\n🔹\nاو درباره بسته بودن پنجره نقل و انتقالاتی استقلال گفت: «من هرگز صحبتی از پنجره بسته نکرده‌ام چون اول فصل گفتم که بازیکنانم را باور دارم و تجربه نشان داده تیم‌هایی بوده‌اند که با نفرات کم، نتایج بزرگی گرفته‌اند.»\n@iranintltvsport",
+        "date": "2026-08-23T19:40:01+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353882_0_3b66fd4f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353882_1_7e000dde.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353882"
+      },
+      {
+        "id": 353881,
+        "text": "محسن رضایی، دبیر شورای عالی امنیت ملی، یک‌شنبه یکم شهریور در ایکس نوشت که تهران مشارکت یا حمایت هر کشوری از «جنگ اقتصادی آمریکا علیه مردم ایران» را اقدامی جنگی تلقی خواهد کرد.\nدبیر شورای عالی امنیت ملی نوشت: «اگر جنگ اقتصادی ادامه یابد، حتی یک قطره نفت نیز صادر نخواهد شد؛ نه از طریق تنگه هرمز و نه از هیچ نقطه‌ای در خلیج فارس.»\nhttps://iranintl.com/202608237896",
+        "date": "2026-08-23T19:27:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353881_0_3b66fd4f.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353881_1_8e2db936.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608237896",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608237896"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/353881"
+      },
+      {
+        "id": 353880,
+        "text": "ایتالیا، آلمان، اسپانیا، اتریش، لهستان و پرتغال در نامه‌ای مشترک به اتحادیه اروپا خواستار بررسی وضع مالیات بر سودهای مازاد شرکت‌های نفتی شدند.\nوزرای دارایی این کشورها با اشاره به افزایش سود شرکت‌های نفتی، وضعیت کنونی را بزرگ‌ترین شوک عرضه در چند دهه اخیر توصیف کردند و درباره افزایش نارضایتی عمومی هشدار دادند.\nگزارش صدف باغبانی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-08-23T19:16:43+00:00",
+        "media": [],
+        "links": [],
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353880"
       },
@@ -8662,18 +8711,9 @@
         "id": 353878,
         "text": "هم‌زمان با اعلام قریب‌الوقوع آنچه دولت دونالد ترامپ «شدیدترین تحریم‌های تاریخ» علیه جمهوری اسلامی خوانده، رضا طالبی، روزنامه‌نگار، گفت این تحریم‌ها در شرایط جنگ، محاصره دریایی، توقف صادرات نفت و بحران اقتصادی اعمال می‌شود و از نظر دامنه و اثرگذاری با تحریم‌های سال ۲۰۱۸ قابل مقایسه نیست و بسیار شدیدتر است. او افزود اظهارات عباس عراقچی درباره تکراری بودن تحریم‌ها، بیشتر مصرف داخلی و تلاشی برای عادی‌سازی بحران دارد.\nاو همچنین گفت دوگانگی مواضع دولت و سپاه پاسداران نشان می‌دهد جمهوری اسلامی هم‌زمان می‌کوشد از مسیر دیپلماسی و تهدید نظامی پیش برود، اما ادامه فشارهای اقتصادی و تشدید محاصره، توان حکومت برای ادامه یک رویارویی طولانی‌مدت را با چالش جدی روبه‌رو خواهد کرد.\n@iranintltv",
         "date": "2026-08-23T19:14:55+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353878_0_3b66fd4f.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_353878_1_c08c5422.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353878"
       },
@@ -8681,14 +8721,9 @@
         "id": 353877,
         "text": "🎧\nنسخه صوتی تیتراول با نیوشا صارمی: محسن رضایی تهدید به ساختن بمب اتم کرد؛دلار ۲۰۰هزار تومانی و شکاف در راس قدرت\n@iranintlTV",
         "date": "2026-08-23T19:02:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353877_0_3b66fd4f.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353877"
       },
@@ -8696,18 +8731,9 @@
         "id": 353876,
         "text": "🔻\nجواد نکونام، سرمربی تراکتور در نشست خبری پیش از بازی با پرسپولیس گفت از محرومیت حضور تماشاگران ناراحت است: «حضور هواداران برای ما بسیار باارزش است و من قدر آنها را می‌دانم. هواداران انرژی زیادی به تیم می‌دهند و در بازی با پیکان نیز دیدید که حضورشان چه تأثیری بر روند تیم داشت.»\n🔹\nاو گفت: «این محرومیت تصمیمی است که از قبل گرفته شده و ما به تصمیمات کمیته انضباطی احترام می‌گذاریم. امیدواریم این رویه برای همه یکسان باشد.»\n🔹\nسرمربی تراکتور گفت: «ما در حال حاضر دو مهره برتر هجومی لیگ را در اختیار نداریم، اما خوب و روان بازی می‌کنیم. نمی‌توانم به خودم و تیمم دروغ بگویم. با حضور ترابی و هاشم‌نژاد، تیم بهتر خواهد شد. این دو بازیکن پیش از این کیفیت خود را که در سطح جام جهانی است، در تراکتور نشان داده‌اند.»\n🔹\nنکونام درباره رکوردشکنی در دیدار مقابل پرسپولیس، گفت: «اصلا به این موضوع فکر نمی‌کنم. تمرکز من این است که تیم بهترین عملکرد را داشته باشد، خوب بازی کند و به موفقیت برسد. اصلاً کاری به نتایج قبلی دو تیم نداریم. تمام تمرکز ما روی موفقیت است. کل لیگ برای ما اهمیت دارد، نه فقط سه بازی.»\n@iranintltvsport",
         "date": "2026-08-23T18:42:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353876_0_3b66fd4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_353876_1_a61475c5.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353876"
       },
@@ -8715,16 +8741,7 @@
         "id": 353875,
         "text": "مایک جانسون، رییس مجلس نمایندگان آمریکا، یک‌شنبه یکم شهریور  در گفت‌وگو با شبکه فاکس‌نیوز اعلام کرد: «انتظار داریم جنگ ایران به‌زودی وارد مرحله جدیدی شود و متحدان آمریکا برای پایان دادن به جنگ کمک کنند.»\nرییس مجلس نمایندگان آمریکا گفت: «فکر می‌کنم به‌زودی وارد مرحله جدیدی می‌شویم و این کار را تمام می‌کنیم.»\nجانسون افزود: «جلوگیری از دستیابی ایران به سلاح هسته‌ای، هدف همه دولت‌های آمریکا در ۵۰ سال گذشته بوده است. مردم می‌دانند ما سر مار را قطع کردیم. باید مطمئن می‌شدیم بزرگ‌ترین حامی حکومتی تروریسم به سلاح هسته‌ای دست نمی‌یابد و دونالد ترامپ این کار را انجام داد.»\nاو همچنین درباره وضعیت تنگه هرمز گفت: «انتقال نفت از تنگه هرمز ادامه دارد. نمی‌توان به ایرانی‌ها در آن سوی میز مذاکره اعتماد کرد؛ این چالش ما است.»\nhttps://iranintl.com/202608239405",
         "date": "2026-08-23T18:32:07+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353875_0_3b66fd4f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_353875_1_5ccdcc24.jpg"
-          }
-        ],
+        "media": [],
         "links": [
           {
             "url": "https://iranintl.com/202608239405",
@@ -8732,7 +8749,7 @@
             "display_text": "https://iranintl.com/202608239405"
           }
         ],
-        "has_media": true,
+        "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/353875"
       },
@@ -9805,42 +9822,6 @@
         "has_media": false,
         "has_links": true,
         "source": "https://t.me/IranintlTV/353781"
-      },
-      {
-        "id": 353780,
-        "text": "ویدیوهای ارسال شده به ایران‌اینترنشنال نشان می‌دهند گروهی از ایرانیان ساکن آمریکا شنبه ۳۱ مرداد در سن‌خوزه کالیفرنیا علیه جمهوری اسلامی در خیابان‌های شهر کاروان خودرویی به راه انداختند و پرچم‌های شیروخورشید به دست گرفتند.",
-        "date": "2026-08-23T07:29:52+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353780"
-      },
-      {
-        "id": 353779,
-        "text": "🔻\nالناز رکابی، سنگ‌نورد زن ایرانی، در واکنش به کنار گذاشتن فرزانه فصیحی از تیم ملی دوومیدانی ایران، با انتشار یک استوری در اینستاگرام نوشت: «تمام الفاظ جهان را در اختیار داشتم و آن نگفتیم که به کار آید، چرا که یک سخن، یک سخن در میانه نبود: آزادی.»\n🔹\nفرزانه فصیحی، دونده المپیکی ایران، نیز با انتشار پستی در اینستاگرام نوشت که در ماه‌های گذشته تحت فشارهای امنیتی بوده و با وجود کسب سهمیه رسمی، نهادهای ورزشی جمهوری اسلامی از ثبت‌نام او در مسابقات قهرمانی جهان جلوگیری کرده‌اند.\n🔹\nاین ورزشکار که پیش‌تر از انقلاب ملی ایرانیان حمایت کرده بود، نوشت به‌دلیل مواضعش در حمایت از مردم ایران بارها تهدید شده است. فصیحی تاکید کرد با وجود ماه‌ها سکوت و تحمل فشار، به تلاش خود برای «دویدن برای مردم و رویاهایش» ادامه می‌دهد.\n@iranintltvsport",
-        "date": "2026-08-23T07:29:17+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353779"
-      },
-      {
-        "id": 353778,
-        "text": "در ادامه روند صعودی قیمت ارزهای خارجی در بازار آزاد ایران، قیمت دلار آمریکا یک‌شنبه اول شهریور به ۱۹۷ هزار و ۵۰۰ تومان رسید و رکورد جدیدی ثبت کرد.\nهر پوند بریتانیا از ۲۶۹ هزار تومان عبور کرد و یورو نیز به مرز ۲۳۰ هزار تومان رسید.\nقیمت هر سکه طلای طرح جدید، موسوم به «امامی»، به ۲۱۴ میلیون تومان رسید.\nhttps://iranintl.com/202608233903",
-        "date": "2026-08-23T07:16:44+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608233903",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608233903"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/353778"
       }
     ],
     "tavaanatech": [
@@ -18165,18 +18146,9 @@
         "id": 72076,
         "text": "🫒\nربات ققنوس | هوش مصنوعی رایگان\n❤️\nساخت عکس با مدل ها محبوب\nGPT Image 2\nو\nNano Banana Pro\nکاملا رایگان و نامحدود\n🌈\n🧠\nبیش از 50 مدل مختلف بروز GPT و Claude و...\n⭐\nبدون اشتراک\n🆓\nکاملا رایگان\n♾\nبدون محدودیت\n💻\nاز چت تا کدنویسی، از ترجمه تا تحلیل از ساخت پوستر تبلیغاتی تا ادیت حرفه ای عکس\nهمین الان شروع کنید\n⬇️\n❤️\n@Phoenixx_robot",
         "date": "2026-08-23T18:35:30+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "apkclub_72076_0_add688ba.jpg"
-          },
-          {
-            "type": "image",
-            "file": "apkclub_72076_1_41c863e1.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/apkclub/72076"
       },
@@ -18184,14 +18156,9 @@
         "id": 72075,
         "text": "",
         "date": "2026-08-23T18:33:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "apkclub_72075_0_add688ba.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/apkclub/72075"
       },
@@ -18199,18 +18166,9 @@
         "id": 72074,
         "text": "💻\nNext Movie\n🔝\nV6.0\n⭐️\nمود برنامه تماشای فیلم و سریال بدون سانسور\n🔖\nویژگی‌های نسخه مود:\n🔵\nفایل های اضافی حذف شده\n🔵\nتبلیغات حذف شده است\n🔵\nاشتراک برنامه فعال شده است\n📱\nبرای دانلود فایل روی (\nدانــلود\n) کلیک کنید.\n🌟\n@APKCLUB",
         "date": "2026-08-23T18:30:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "apkclub_72074_0_add688ba.jpg"
-          },
-          {
-            "type": "image",
-            "file": "apkclub_72074_1_c91def17.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/apkclub/72074"
       },
@@ -18218,14 +18176,9 @@
         "id": 72073,
         "text": "",
         "date": "2026-08-23T18:27:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "apkclub_72073_0_add688ba.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/apkclub/72073"
       },
@@ -19290,14 +19243,9 @@
         "id": 9307,
         "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇬🇧\n🇫🇷\n🔌\nوضعیت : متصل تا زمان فیلتر\nvless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@94.183.157.203:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=s3.storage.anti-zapret.com&sid=cbb0a5c1dc905505#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig\nvless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@universe.whit3.net:4443?mode=auto&path=%2F&security=reality&encryption=none&pbk=4p9HuPujWxxtdp0GB_cJN42sFnF-woybk26SXLb1qAo&fp=firefox&type=xhttp&sni=universe.whit3.net&sid=4eb17bfdb000bef0#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig\nvless://a78f7463-ca1c-4af2-8458-52f1f382268a@91.236.168.18:38850?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig\nss://YWVzLTI1Ni1nY206ZmJjZWM3Njk1M2EyZDE3Mw@166.88.130.218:40991#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig\nvmess://eyJhZGQiOiJkYXNoYm9hcmQuYWZyYXNob3AudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEzMGIwZmJmLTRmMTktNDRkMC05MTFmLTk1MzU1ZTk2MzJlNCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTM4MSIsInBzIjoi8J+HufCfh7dARnJlYWtDb25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n👑\nدریافت 1 گیگ کانفیگ رایگان روزانه\n«\nدریافت\n»\n⚡\n@FreakConfig",
         "date": "2026-08-23T18:34:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "FreakConfig_9307_0_23bb3eca.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/FreakConfig/9307"
       },
@@ -24052,18 +24000,9 @@
         "id": 11461,
         "text": "🔴\nمرندی: احتمال اینکه تو روزهای آینده دوباره درگیری نظامی شروع بشه، خیلی زیاده. هر کشوری که با ترامپ برای تحت فشار گذاشتن و گرسنه نگه داشتن مردم ایران همکاری کنه، شدیداً تنبیه می‌شه. اقتصاد دنیا هم در آستانه فروپاشیه.\n❤️\n•\n@MediaMardom",
         "date": "2026-08-23T19:09:21+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11461_0_a1825ab4.jpg"
-          },
-          {
-            "type": "image",
-            "file": "MediaMardom_11461_1_069f3b77.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11461"
       },
@@ -24071,14 +24010,9 @@
         "id": 11460,
         "text": "🔴\nسخنگوی دولت: خبر خوش برای مردم، سود سهام عدالت از 2 تا 8 شهریور واریز میشه.\n😂\n😂\n😂\n❤️\n•\n@MediaMardom",
         "date": "2026-08-23T19:02:31+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "MediaMardom_11460_0_a1825ab4.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/MediaMardom/11460"
       },
@@ -25113,17 +25047,27 @@
     ],
     "ProxyMTProto": [
       {
-        "id": 50434,
-        "text": "Server:\nUnknown\nPort:\n8443\nSecret:\ndd104462821249bd7ac519130220c25d09\n@ProxyMTProto",
-        "date": "2026-08-23T19:00:00+00:00",
+        "id": 50435,
+        "text": "Server:\ndata.utkanos.life\nPort:\n2443\nSecret:\neec3fcb57fc846f97afff554fa8b05b473646174612e75746b616e6f732e6c696665\n@ProxyMTProto",
+        "date": "2026-08-23T19:30:00+00:00",
         "media": [
           {
             "type": "image",
-            "file": "ProxyMTProto_50434_0_5f6d4495.jpg"
+            "file": "ProxyMTProto_50435_0_5f6d4495.jpg"
           }
         ],
         "links": [],
         "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50435"
+      },
+      {
+        "id": 50434,
+        "text": "Server:\nUnknown\nPort:\n8443\nSecret:\ndd104462821249bd7ac519130220c25d09\n@ProxyMTProto",
+        "date": "2026-08-23T19:00:00+00:00",
+        "media": [],
+        "links": [],
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50434"
       },
@@ -25131,14 +25075,9 @@
         "id": 50433,
         "text": "Server:\nt.meow-network.com\nPort:\n443\nSecret:\nee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d\n@ProxyMTProto",
         "date": "2026-08-23T18:30:00+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "ProxyMTProto_50433_0_5f6d4495.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50433"
       },
@@ -26111,16 +26050,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50336"
-      },
-      {
-        "id": 50335,
-        "text": "Server:\nad1.arixo.shop\nPort:\n443\nSecret:\neee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70\n@ProxyMTProto",
-        "date": "2026-08-20T18:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50335"
       }
     ],
     "XpnTeam": [
@@ -26128,14 +26057,9 @@
         "id": 8150,
         "text": "@XpnTeam-140.npvt",
         "date": "2026-08-23T18:56:17+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "XpnTeam_8150_0_2ce7ab29.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/XpnTeam/8150"
       },
@@ -26143,14 +26067,9 @@
         "id": 8149,
         "text": "🔐\nTraffic\n: UN/\nLimited\n♾\nTime : nA\n⏰\n⚠️\nLocation :\n🌐\nApp\n⬇️\n:\nNapesterNet\n❓\n|- آموزش :\nفایل رو دانلود کنید و روش ضربه بزنید ، برنامه نپستر رو انتخاب و سپس وارد اپلیکیشن شید انتخاب کنید سرورو،بعدشم‌روشن‌کنید..\n🤩\n›\n@XpnTeam",
         "date": "2026-08-23T18:53:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "XpnTeam_8149_0_2ce7ab29.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/XpnTeam/8149"
       },
@@ -31439,38 +31358,9 @@
         "id": 12803,
         "text": "قیمت دلار امروز از مرز ۲۰۰،۰۰۰ تومان گذشت. امروز قیمت دلار ۲۸،۵۷۱ برابر زمانی است که جمهوری اسلامی به قدرت رسید.\nحاصل نزدیک به پنج دهه حاکمیت فساد و ناکارآمدی در جمهوری اسلامی فقر، فساد و ‌انزوا برای ملت ایران بوده است.\nتجربه این پنج دهه یک مسئله را برای همه روشن کرده است: در جمهوری اسلامی اصلاح ممکن نیست.\nقطار ایران در بهمن ۵٧ از ریل تمدن و پیشرفت خارج شد و امروز جمهوری اسلامی آن را با سرعت هرچه بیشتر به ته دره هدایت می‌کند.\nامروز وظیفه تک‌تک ایرانیان از جمله کارمندان دولت و بدنه اداری کشور این است که به هر شکل ممکن با اخلال در فعالیت‌های مخرب جمهوری اسلامی و‌ تضعیف آن زمینه برکنار کردن رژیم و‌ نجات ایران را فراهم کنند.\n@OfficialRezaPahlavi",
         "date": "2026-08-23T19:28:53+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12803_0_0e8d087d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12803_1_92a56241.jpg"
-          },
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12803_2_8117c05f.jpg"
-          },
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12803_3_e3e54e76.jpg"
-          },
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12803_4_91eb59cc.jpg"
-          },
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12803_5_8604b12d.jpg"
-          },
-          {
-            "type": "image",
-            "file": "BestProxyTel1_12803_6_574e1945.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/BestProxyTel1/12803"
       },
@@ -33729,6 +33619,44 @@
     ],
     "bg_ae": [
       {
+        "id": 148680,
+        "text": "🇮🇷\n👀\n| رئیس سازمان بهینه‌سازی: به رئیس‌جمهور گفتم باید کارهایی کنیم که در کوتاه‌مدت فحش بخوریم اما در بلندمدت از ما تشکر شود\n🔴\nآقای پزشکیان به من گفتند حتما این‌کار را بکن زیرا ما باید مسائل را حل کنیم\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-23T19:50:16+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148680_0_45be3b42.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148680_1_b972d151.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148680"
+      },
+      {
+        "id": 148679,
+        "text": "🚨\nبیشتر از یک سال قبل، سایپا پیش‌فروش \"سهند\" همراه تحویل 90 روزه میذاره؛\nحالا بعد از گذشت این همه وقت، هیچ ماشینی تحویل نداده و مردمِ شاکی اینطوری ریختن دم یکی از نمایندگی‌هاش و منتظرن حقشون رو بگیرن.\n💢\n@Baga_News\n| Король",
+        "date": "2026-08-23T19:33:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148679_0_45be3b42.jpg"
+          },
+          {
+            "type": "video",
+            "file": "bg_ae_148679_1_e3a8ccbf.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148679"
+      },
+      {
         "id": 148678,
         "text": "🔴\nاین خرس معروف در کوه سبلان که با کوهنوردا غذا می‌خورد، صبح امروز جنازه‌ش رو درحالیکه چندتا تیر خورده بود پیدا کردن.\n..\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-23T19:20:23+00:00",
@@ -34348,18 +34276,9 @@
         "id": 148639,
         "text": "🇮🇷\nویدئوی جنجالی صداوسیما؛\nنقشه ترور بارون ترامپ\n‼️\n‼️\nصداوسیما در اقدامی بی‌سابقه، اطلاعات محرمانه و مکان‌های دقیق تردد پسر ترامپ و نقاطی که در تیررس است را منتشر کرد\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-23T10:50:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148639_0_45be3b42.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148639_1_f7e538cc.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/bg_ae/148639"
       },
@@ -34367,18 +34286,9 @@
         "id": 148638,
         "text": "🇮🇷\nخوش چشم:\n🟠\nاگه بخوایم توانایی ساخت گروه نیابتی تو آمریکا رو داریم\n‼️\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-23T10:30:36+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148638_0_45be3b42.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148638_1_62a477c6.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/bg_ae/148638"
       },
@@ -34386,18 +34296,9 @@
         "id": 148637,
         "text": "🇷🇺\n🇮🇷\nایران و روسیه در آستانه امضای توافق‌نامه‌ای برای اجرای پروژه ساخت خط راه‌آهن رشت-آستارا توسط جمهوری آذربایجان\n🇦🇿\nهستند.\nاین پروژه، یکی از پروژه‌های کلیدی کریدور حمل‌ونقل شمال-جنوب بین‌المللی است.\nطبق گزارش خبرگزاری ایرنا، انتظار می‌رود که نمایندگان تهران و مسکو به زودی این سند را امضا کنند\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-23T10:10:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148637_0_45be3b42.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148637_1_2dfb9055.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/bg_ae/148637"
       },
@@ -34405,18 +34306,9 @@
         "id": 148636,
         "text": "🚨\nجدیدا یه کمپین راه افتاده که افراد مذهبی و محجبه دیگه از مغازه هایی که زنا و دخترای بی حجاب توشون کارمیکنن خرید نکنن و اونارو تحریم میکنن!\n😂\n😂\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-23T09:50:18+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148636_0_45be3b42.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148636_1_3ffefffb.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/bg_ae/148636"
       },
@@ -34424,14 +34316,9 @@
         "id": 148635,
         "text": "💢\nالعربیه: فرمانده ارتش پاکستان، عاصم منیر، روز دوشنبه با پیام‌هایی از آمریکا به تهران سفر می‌کند.\nاین سفر در چارچوب تلاش‌های پاکستان برای شکستن بن‌بست دیپلماتیک ایران و آمریکا و از سرگیری مذاکرات پس از ناکامی دو طرف در دستیابی به توافق نهایی درباره پرونده هسته‌ای و تنگه هرمز انجام می‌شود.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-23T09:31:41+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148635_0_45be3b42.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/bg_ae/148635"
       },
@@ -34439,18 +34326,9 @@
         "id": 148634,
         "text": "💠\nبنزین وارداتی که لیتری 80 هزار تومن بود به لیتری 135 هزار تومن رسید\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-23T09:10:19+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148634_0_45be3b42.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148634_1_0d885f54.mp4"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/bg_ae/148634"
       },
@@ -34458,22 +34336,9 @@
         "id": 148632,
         "text": "این چرا همچین شده :/\n💢\n@Baga_News\n| Король",
         "date": "2026-08-23T08:54:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148632_0_45be3b42.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148632_1_2eeb6dfe.jpg"
-          },
-          {
-            "type": "image",
-            "file": "bg_ae_148632_2_4c90721e.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/bg_ae/148632"
       },
@@ -34481,14 +34346,9 @@
         "id": 148631,
         "text": "🔹\nرئیس کمیسیون فناوری اطلاعات و ارتباطات اتاق بازرگانی ایران :\nارزیابی معماری زیرساختی شبکه پس از تجربه قطعی اینترنت بین‌الملل ضروری است.\nدولت انگیزه رفع فیلترینگ را دارد، اما این موضوع باید با بررسی همه جوانب و رعایت شرایط موجود دنبال شود.\n💢\n@Baga_News\n| areZo",
         "date": "2026-08-23T08:32:40+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148631_0_45be3b42.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/bg_ae/148631"
       },
@@ -34496,14 +34356,9 @@
         "id": 148630,
         "text": "🔴\nتلگراف:\nهکرهایی که به جمهوری اسلامی مرتبط هستند، یک نیروگاه کوچک در بریتانیا را به مدت چهار روز از کار انداختند. این اولین حمله از نوع خود در بریتانیا است که تاکنون گزارش شده است.\nاین قطعی برق، شبکه برق سراسری را تحت تأثیر قرار نداد.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-23T08:02:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148630_0_45be3b42.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/bg_ae/148630"
       },
@@ -35082,26 +34937,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/bg_ae/148562"
-      },
-      {
-        "id": 148561,
-        "text": "🔹\nرویترز: ایران به درخواست بغداد، اجازه عبور شماری از نفتکش‌های عراقی را از تنگه هرمز داده است.\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-22T08:34:29+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148561"
-      },
-      {
-        "id": 148560,
-        "text": "هندی ها به ماشین هایی ک حامل گوشت گاو بود حمله کردن و گزارش ها حاکی از کشته شدن چند راننده هستش\n😂\n💢\n@Baga_News\n| Король",
-        "date": "2026-08-22T08:04:02+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148560"
       }
     ],
     "maznet": [
@@ -36518,22 +36353,22 @@
       }
     ]
   },
-  "last_update": "2026-08-23T19:29:59.748903+00:00",
+  "last_update": "2026-08-23T19:54:39.585941+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2768,
-    "total_media": 1263,
-    "total_files": 1263,
+    "total_media": 1227,
+    "total_files": 1227,
     "total_links": 500,
     "files_by_type": {
-      "image": 1182,
-      "video": 69,
+      "image": 1147,
+      "video": 68,
       "document": 3,
       "audio": 9
     },
-    "referenced_files": 1263,
-    "existing_media_files": 1263,
-    "total_size_mb": 499.14,
-    "last_calculation": "2026-08-23T19:29:59.761331+00:00"
+    "referenced_files": 1227,
+    "existing_media_files": 1227,
+    "total_size_mb": 499.99,
+    "last_calculation": "2026-08-23T19:54:39.601156+00:00"
   }
 }
