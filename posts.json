@@ -12117,6 +12117,31 @@
     ],
     "whitedns": [
       {
+        "id": 1571,
+        "text": "مهم\n⚠️\n⚠️\n⚠️\n⚠️\n⚠️\nدوستان :\nپست  را با دقت مطالعه کنید\nhttps://t.me/whitedns/1568\nاین کانفیگ های برای قابلیت \"exit chain\" توی اپ whiteaester و whitevpn هست - که ip شما را ثابت میکنه و یک لایه امنیت بیشتر به شما میده چون TLS هست\nچون خیلی از دوستان کانفیگ نداشتن و یا نگران امنیتشون بودند ما این امکان را فراهم کردیم .\nاین کانفیگ ها اصلا برای دور زدن فیلترینگ درست نشده\n🚫\n🚫\n🚫\n@whitedns",
+        "date": "2026-08-23T03:28:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "whitedns_1571_0_573875a7.jpg"
+          },
+          {
+            "type": "image",
+            "file": "whitedns_1571_1_7bd013e9.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://t.me/whitedns/1568",
+            "type": "telegram",
+            "display_text": "https://t.me/whitedns/1568"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/whitedns/1571"
+      },
+      {
         "id": 1570,
         "text": "موقت :\nیک سوال خودمونی :\nتا الان نزدیک 50 نفر کانفیگ دریافت کردن\nچرا حتی به خودشون زحمت ندادند یک لایک کنند ؟\nاین فرهنگ عجیب از کجا اومده ؟\nاون لایکی که شما میکنید یک انرژی برای این تیم هست که شما دریغ میکنید .\n😏",
         "date": "2026-08-23T03:06:07+00:00",
@@ -14294,27 +14319,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/whitedns/1418"
-      },
-      {
-        "id": 1416,
-        "text": "🚀\nWhiteVPN Desktop نسخهٔ ۱.۰.۳ منتشر شد\n۱. اتصال خودکار از پایه بازنویسی شد\n✅\nحالا دقیقاً مثل نسخهٔ اندروید کار می‌کند: اپ دیگر خودش نودها را یکی‌یکی امتحان نمی‌کند، بلکه انتخاب را به موتور می‌سپارد تا از بین صدها نود، بهترینِ در دسترس را بردارد — و اگر نودی از کار افتاد، خودش روی نود دیگر می‌رود.\nنتیجه: اتصال در چند ثانیه\n⚡️\n، و خطای «could not connect» که خیلی‌ها می‌گرفتند برطرف شد.\n۲. رفع مشکل حالت تونل (TUN)\n🛠\nمشکلی که باعث می‌شد روی بعضی سیستم‌ها کانفیگ در حالت پراکسی وصل شود ولی در حالت تونل نه، پیدا و برطرف شد. کسانی هم که IPv6 سیستمشان را غیرفعال کرده‌اند دیگر با خطا مواجه نمی‌شوند.\n۳. حذف و ویرایش کانفیگ در صفحهٔ Servers\n✏️\nکانفیگ‌هایی که خودتان اضافه کرده‌اید حالا قابل ویرایش و حذف هستند. برای اصلاح یک کانفیگ دیگر لازم نیست همه را پاک کنید و از اول وارد کنید.\n۴. پیام‌های خطای واضح‌تر\n📢\nاگر اتصالی برقرار نشد، اپ دلیل واقعی را نشان می‌دهد نه فقط «ناموفق» — هم برای شما روشن‌تر است، هم گزارش مشکل را خیلی راحت‌تر می‌کند.\n⬇️\nدانلود برای ویندوز، مک و لینوکس:\nhttps://github.com/WhiteDNS/WhiteVPN-Desktop/releases/tag/v1.0.3\n@whitedns",
-        "date": "2026-08-06T16:08:34+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "whitedns_1416_0_88304f3d.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://github.com/WhiteDNS/WhiteVPN-Desktop/releases/tag/v1.0.3",
-            "type": "github",
-            "display_text": "https://github.com/WhiteDNS/WhiteVPN-Desktop/releases/tag/v1..."
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/whitedns/1416"
       }
     ],
     "ZibaNabz": [
@@ -36762,22 +36766,22 @@
       }
     ]
   },
-  "last_update": "2026-08-23T03:11:41.653082+00:00",
+  "last_update": "2026-08-23T03:36:24.667277+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2765,
-    "total_media": 1307,
-    "total_files": 1307,
+    "total_media": 1308,
+    "total_files": 1308,
     "total_links": 515,
     "files_by_type": {
-      "image": 1218,
+      "image": 1219,
       "video": 78,
       "document": 3,
       "audio": 8
     },
-    "referenced_files": 1307,
-    "existing_media_files": 1307,
-    "total_size_mb": 496.47,
-    "last_calculation": "2026-08-23T03:11:41.664448+00:00"
+    "referenced_files": 1308,
+    "existing_media_files": 1308,
+    "total_size_mb": 496.59,
+    "last_calculation": "2026-08-23T03:36:24.680558+00:00"
   }
 }
