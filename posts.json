@@ -22822,6 +22822,25 @@
     ],
     "withyashar": [
       {
+        "id": 21474,
+        "text": "همکنون یک F-35 از سمت خلیج فارس به سمت عربستان سعودی سیگنال 7700 روشن کرده ودر حال فرود اضطراری است\n@WarRoom",
+        "date": "2026-08-25T01:05:15+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21474_0_c3a851e8.jpg"
+          },
+          {
+            "type": "image",
+            "file": "withyashar_21474_1_f4f73cc5.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21474"
+      },
+      {
         "id": 21473,
         "text": "‏شاهزاده رضا پهلوی با بازنشر تصویری از دیدار خود با زلنسکی، سی‌وپنجمین سالگرد استقلال اوکراین را به مردم این کشور تبریک گفت و نوشت: «در این روز مهم، مردم ایران در مبارزه مردم اوکراین علیه تجاوز و اشغال، شانه‌به‌شانه آنها ایستاده‌اند. همبستگی شما با مردم ایران…",
         "date": "2026-08-24T23:58:02+00:00",
@@ -24457,21 +24476,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/21369"
-      },
-      {
-        "id": 21368,
-        "text": "العربیه: فرمانده ارتش پاکستان، عاصم منیر، روز دوشنبه با پیام‌هایی از آمریکا به تهران سفر می‌کند.\nاین سفر در چارچوب تلاش‌های پاکستان برای شکستن بن‌بست دیپلماتیک ایران و آمریکا و از سرگیری مذاکرات پس از ناکامی دو طرف در دستیابی به توافق نهایی درباره پرونده هسته‌ای و تنگه هرمز انجام می‌شود.\n@WarRoom",
-        "date": "2026-08-23T08:02:11+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21368_0_8409da53.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21368"
       }
     ],
     "MediaMardom": [
@@ -37500,22 +37504,22 @@
       }
     ]
   },
-  "last_update": "2026-08-25T00:54:02.906445+00:00",
+  "last_update": "2026-08-25T01:21:12.933913+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2769,
-    "total_media": 1459,
-    "total_files": 1459,
+    "total_media": 1460,
+    "total_files": 1460,
     "total_links": 510,
     "files_by_type": {
-      "image": 1359,
+      "image": 1360,
       "video": 92,
       "audio": 6,
       "document": 2
     },
-    "referenced_files": 1459,
-    "existing_media_files": 1459,
-    "total_size_mb": 495.88,
-    "last_calculation": "2026-08-25T00:54:02.924593+00:00"
+    "referenced_files": 1460,
+    "existing_media_files": 1460,
+    "total_size_mb": 495.99,
+    "last_calculation": "2026-08-25T01:21:12.946890+00:00"
   }
 }
