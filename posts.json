@@ -8686,6 +8686,50 @@
     ],
     "IranintlTV": [
       {
+        "id": 354270,
+        "text": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد یک معترض در شهر بستک استان هرمزگان شعار «جاوید شاه» و «مرگ بر نظام» را بر دیوار نوشت.",
+        "date": "2026-08-26T05:59:54+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_354270_0_0fef31d2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_354270_1_1802ff9e.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/354270"
+      },
+      {
+        "id": 354269,
+        "text": "احمد علم‌الهدی، امام جمعه مشهد، در دیدار با تعدادی از طلاب حاضر در تجمعات شبانه حامیان حکومت، گفت: «در گذشته، مقام رهبری می‌توانست ظاهر شود، با مردم صحبت کند و با مردم ارتباط برقرار کند. اکنون با یک پیام یا بیانیه، چقدر می‌توان نقش آن حضور را کاملا تامین کرد؟»\nعلم‌الهدی اضافه کرد: «اکنون که رهبری نمی‌تواند با مردم روبه‌رو شود، جریان ولایت در ذهن‌های مردم با قدرت قبلی جا نیفتاده و جریان روشنفکری می‌خواهد از این فرصت برای کنار زدن ولایت استفاده کند.»\nنماینده رهبر جمهوری اسلامی در خراسان رضوی افزود: «وظیفه ما این است که مردم را به ولایت نزدیک کنیم و کاری نکنیم که مردم تحت تاثیر جریان روشنفکری قرار بگیرند و به دلیل نداشتن دسترسی به ولی امر، سرد شوند.»\nعلم‌الهدی اضافه کرد: «ما باید این خلأ را پر کنیم. باید با مردم به‌گونه‌ای برخورد کنیم که این خلأیی که به دلیل ناتوانی رهبری در ارتباط مستقیم با مردم ایجاد شده، پر کنیم. وقتی این خلأ را پر کردیم، دشمن به هدف نمی‌رسد و جریان روشنفکری نمی‌تواند ولایت را براندازی کند. اگر ولایت آسیب نبیند، روحانیت سر جای خود و در قدرت خود باقی می‌ماند.»\nhttps://iranintl.com/20260826",
+        "date": "2026-08-26T05:55:53+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_354269_0_0fef31d2.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_354269_1_01bd2eb1.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/20260826",
+            "type": "external",
+            "display_text": "https://iranintl.com/20260826"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/354269"
+      },
+      {
         "id": 354268,
         "text": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد یک معترض در تالش بر دیوار کوچه شعار «جاوید شاه» نوشت.",
         "date": "2026-08-26T05:29:54+00:00",
@@ -10285,32 +10329,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/IranintlTV/354170"
-      },
-      {
-        "id": 354169,
-        "text": "«برنامه» صدای شماست.\nما شما را، بدون نوبت، مستقیم از ایران روی خط می‌آوریم.\nبیایید و روایت خود را برای همیشه ثبت کنید.\nتاریخ با صدای شما نوشته می‌شود.\nبرای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید: ۰۰۴۴۷۵۲۲۱۱۰۱۱۰\n۰۰۴۴۷۵۴۴۱۱۰۱۱۰\n۰۰۴۴۷۵۱۱۱۰۲۵۵۳\n«برنامه با کامبیز حسینی»\n«یک ایران صدای شما را می‌شنود»\n@iranintltv",
-        "date": "2026-08-25T14:26:35+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/354169"
-      },
-      {
-        "id": 354168,
-        "text": "خبرگزاری تسنیم سه‌شنبه سوم شهریور گزارش داد امان‌الله گشتاسبی، فرمانده قرارگاه حمزه نیروی زمینی سپاه پاسداران، در همایش «عالم تمدن‌ساز» گفت در جریان جنگ‌های اخیر، «دشمن قصد داشت با ایجاد ناامنی و اختلافات قومی و مذهبی در استان‌های آذربایجان غربی و کردستان، زمینه تهاجم زمینی از شمال‌غرب ایران را فراهم کند».\nگشتاسبی افزود نیروهای مسلح و امنیتی جمهوری اسلامی در این مناطق حضور و آمادگی کامل داشتند و «اجازه نفوذ و تحرک زمینی دشمن» را ندادند.\nاو همچنین گفت نیروهای مسلح جمهوری اسلامی با استفاده از تمام توان خود برای دفاع از کشور آماده‌اند و اجازه «هیچ‌گونه تحرک و تعرضی» را نخواهند داد.\nhttps://iranintl.com/202608257156",
-        "date": "2026-08-25T14:26:22+00:00",
-        "media": [],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608257156",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608257156"
-          }
-        ],
-        "has_media": false,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/354168"
       }
     ],
     "tavaanatech": [
@@ -20093,14 +20111,9 @@
         "id": 9340,
         "text": "👑\nکانفیگ فیلترشکن\n📍\nموقعیت سرور :\n🇳🇱\n🇺🇸\n🔌\nوضعیت : متصل تا زمان فیلتر\nvless://1cc5e727-62f2-469e-963e-20af8cbf1bf5@104.18.19.193:2087?path=%2F&security=tls&encryption=none&insecure=0&host=arvan2.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=arvan2.dearhossein-taktaz.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig\nss://YWVzLTI1Ni1nY206Tnh2OHlwRXJSZkNTY3pENw@154.53.60.212:80#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8316#%F0%9F%87%AD%F0%9F%87%B0%40FreakConfig\nvless://c7e9c591-2764-423a-afca-efbd010fd396@89.110.116.183:2053?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig\nvless://7600b709-382e-4dd0-9a7e-edea8ad66b8c@tandfonline.com:443?alpn=h3%2Ch2%2Chttp%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221%22%2C%22maxSplit%22%3A%22%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome&type=xhttp&sni=1.lovemehrad.dpdns.org&mode=auto&path=%2Fapi&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A%226%22%7D%7D&insecure=0&host=1.lovemehrad.dpdns.org&allowInsecure=0#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig\nvless://c7e9c591-2764-423a-afca-efbd010fd396@152.53.200.124:443?path=%2F&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&fp=chrome&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig\n🦠\nآموزش استفاده\n|\n📱\nبرنامه مورد نیاز\n👑\nدریافت 1 گیگ کانفیگ رایگان روزانه\n«\nدریافت\n»\n⚡\n@FreakConfig",
         "date": "2026-08-26T05:32:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "FreakConfig_9340_0_3c9e2253.jpg"
-          }
-        ],
+        "media": [],
         "links": [],
-        "has_media": true,
+        "has_media": false,
         "has_links": false,
         "source": "https://t.me/FreakConfig/9340"
       },
@@ -23192,6 +23205,36 @@
     ],
     "withyashar": [
       {
+        "id": 21519,
+        "text": "معاون اول پزشکیان : هنوز مسائل مهمی در حال مذاکره هستند ولی ما در صداقت و تعهد طرف مقابل به وعده‌هایش تردید داریم.\n@WarRoom",
+        "date": "2026-08-26T06:01:47+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21519_0_07ac1ec6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21519"
+      },
+      {
+        "id": 21518,
+        "text": "دارلین گراهام در دور دوم انتخابات سنای جمهوری‌خواهان کارولینای جنوبی پیروز شد و با حمایت قوی رئیس‌جمهور ترامپ، نماینده رالف نورمن را با ۵۲٪ در مقابل ۴۸٪ شکست داد.\nگراهام که پس از مرگ برادرش لیندسی گراهام به این سمت منصوب شده است، اکنون در ماه نوامبر با آنی اندروز، دموکرات، روبرو است و به شدت شانس پیروزی دارد.\n@WarRoom",
+        "date": "2026-08-26T05:50:34+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "withyashar_21518_0_07ac1ec6.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/withyashar/21518"
+      },
+      {
         "id": 21517,
         "text": "منبع مطلع به آکسیوس : استیو ویتکاف و جرد کوشنر، قرار است\nروز چهارشنبه\nبرای دریافت گزارش درباره وضعیت میدانی، به منطقه فرماندهی مرکزی آمریکا ، سنتکام بروند\n@WarRoom",
         "date": "2026-08-25T21:58:18+00:00",
@@ -24836,40 +24879,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/withyashar/21417"
-      },
-      {
-        "id": 21416,
-        "text": "Voice message",
-        "date": "2026-08-24T06:16:13+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21416_0_6aff4fc6.jpg"
-          },
-          {
-            "type": "image",
-            "file": "withyashar_21416_1_daf60173.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21416"
-      },
-      {
-        "id": 21415,
-        "text": "فایننشال تایمز: اسکات بسنت، وزیر خزانه‌داری آمریکا، اعلام کرد واشنگتن وارد «مرحله پایانی» علیه ایران شده\nو در حال آماده‌سازی گسترده‌ترین تحریم‌ها برای قطع باقی‌مانده ارتباطات مالی و تجاری تهران است. او هشدار داد کشورها و شرکت‌هایی که به حمایت اقتصادی از ایران ادامه دهند نیز ممکن است هدف تحریم‌های آمریکا قرار گیرند؛ اقدامی که هدف آن انزوای کامل اقتصادی و تشدید فشار بر جمهوری اسلامی است.\n@WarRoom",
-        "date": "2026-08-24T06:11:01+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "withyashar_21415_0_6aff4fc6.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/withyashar/21415"
       }
     ],
     "MediaMardom": [
@@ -26190,6 +26199,21 @@
     ],
     "ProxyMTProto": [
       {
+        "id": 50508,
+        "text": "Server:\nsupport.nettoyou2.co.uk\nPort:\n443\nSecret:\neef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169\n@ProxyMTProto",
+        "date": "2026-08-26T06:00:00+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "ProxyMTProto_50508_0_dc6f3769.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/ProxyMTProto/50508"
+      },
+      {
         "id": 50507,
         "text": "Server:\nproxtstar.live\nPort:\n443\nSecret:\need21e15e0d7df3d811a11e2accff34eec617669746f2e7275\n@ProxyMTProto",
         "date": "2026-08-26T05:30:00+00:00",
@@ -27493,16 +27517,6 @@
         "has_media": false,
         "has_links": false,
         "source": "https://t.me/ProxyMTProto/50408"
-      },
-      {
-        "id": 50407,
-        "text": "Server:\nproxtstar.live\nPort:\n443\nSecret:\need21e15e0d7df3d811a11e2accff34eec617669746f2e7275\n@ProxyMTProto",
-        "date": "2026-08-23T05:30:00+00:00",
-        "media": [],
-        "links": [],
-        "has_media": false,
-        "has_links": false,
-        "source": "https://t.me/ProxyMTProto/50407"
       }
     ],
     "XpnTeam": [
@@ -35203,6 +35217,25 @@
     ],
     "bg_ae": [
       {
+        "id": 148820,
+        "text": "🔴\nآکسیوس به نقل از یک مقام آمریکایی:\nروبیو به شماری از همتایان خود اطلاع داده است که واشنگتن در حال حاضر قصد ندارد ابتکار عمل را برای انجام حملات جدید علیه ایران در دست بگیرد.\nروبیو احتمال انجام حملات را در صورتی که ایران ابتدا حمله کند، رد نکرده است.\nسیاست جدید در قبال ایران شامل پرهیز از اقدام نظامی در شرایط فعلی و افزایش فشار اقتصادی خواهد بود.\nانتظار می‌رود این سیاست جدید در قبال ایران دست‌کم تا پس از انتخابات میان‌دوره‌ای آمریکا ادامه پیدا کند.\n◀️\nایران کنترل خود بر تنگه هرمز را از دست داده و اکنون ما هستیم که کنترل آن را در دست داریم.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
+        "date": "2026-08-26T06:02:07+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "bg_ae_148820_0_37d4f19d.jpg"
+          },
+          {
+            "type": "image",
+            "file": "bg_ae_148820_1_22f4057c.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/bg_ae/148820"
+      },
+      {
         "id": 148819,
         "text": "🔴\n👀\nدیشب تعدادی عراقی با شورتک و سر صدای بلند و قهقهه و چشم چرانی داخل رستورانی در گیلان باعث ناراحتی خانواده های ایرانی داخل رستوران شدند.\nمسئول رستوران رفت تذکر بده با صدای بلندتر داد زدند میریم از رستوران شکایت می‌کنیم ما مهمان جبهه مقاومت هستیم\nهمین لحظه طبق گفته خود عراقی‌ها حدود پنجاه نفر خودجوش می‌ریزند روی سر عراقی‌ها و کتکشون میزنند\nالبته عراقی‌ها میگن پلیس هم بعدا اومده ولی بازهم جلوی پلیس کتک خوردند\n.\n💢\n@Baga_News\n| 𝓝𝓪𝓝𝓪",
         "date": "2026-08-26T05:31:36+00:00",
@@ -37028,25 +37061,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/bg_ae/148711"
-      },
-      {
-        "id": 148710,
-        "text": "🔹\nحتماً با دلار 200 هزارتومنی، مردم ایران دیگه دل‌ودماغ هیچ کاری رو ندارن و هیچی خوشحالشون نمی‌کنه؛\nهمون شبی که دلار شد 200 هزارتومن، عده‌ای از جوونایِ  ایرانی تو کرج:\n💢\n@Baga_News\n| areZo",
-        "date": "2026-08-24T11:32:02+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "bg_ae_148710_0_a1072421.jpg"
-          },
-          {
-            "type": "video",
-            "file": "bg_ae_148710_1_4c34100c.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/bg_ae/148710"
       }
     ],
     "maznet": [
@@ -38463,22 +38477,22 @@
       }
     ]
   },
-  "last_update": "2026-08-26T05:34:10.209505+00:00",
+  "last_update": "2026-08-26T06:06:51.314223+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 2770,
-    "total_media": 1620,
-    "total_files": 1620,
+    "total_media": 1623,
+    "total_files": 1623,
     "total_links": 547,
     "files_by_type": {
-      "image": 1517,
+      "image": 1520,
       "video": 93,
       "document": 3,
       "audio": 7
     },
-    "referenced_files": 1620,
-    "existing_media_files": 1620,
-    "total_size_mb": 499.96,
-    "last_calculation": "2026-08-26T05:34:10.222992+00:00"
+    "referenced_files": 1623,
+    "existing_media_files": 1623,
+    "total_size_mb": 499.99,
+    "last_calculation": "2026-08-26T06:06:51.329644+00:00"
   }
 }
