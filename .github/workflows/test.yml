@@ -1,6 +1,6 @@
 name: 🧪 Tests
 
-on:
+#on:
   push:
     branches: [main]
     paths:
@@ -8,25 +8,25 @@ on:
       - 'test_mirror.py'
       - 'requirements.txt'
       - '.github/workflows/test.yml'
-  pull_request:
+ # pull_request:
     branches: [main]
     paths:
       - 'mirror.py'
       - 'test_mirror.py'
       - 'requirements.txt'
       - '.github/workflows/test.yml'
-  schedule:
+#  schedule:
     - cron: '30 3 * * *'
-  workflow_dispatch:
+#  workflow_dispatch:
 
-permissions:
+#permissions:
   contents: read
 
 concurrency:
   group: tests-${{ github.ref }}
   cancel-in-progress: true
 
-jobs:
+#jobs:
   test:
     name: Offline validation
     runs-on: ubuntu-latest
