@@ -1,6 +1,6 @@
 name: 💚 Repository Keep-Alive
 
-on:
+#on:
   schedule:
     - cron: '*/30 * * * *'
     - cron: '0 */6 * * *'
