@@ -1,6 +1,6 @@
 name: 🌐 Deploy to GitHub Pages
 
-on:
+#on:
   workflow_run:
     workflows: ["🔄 Telegram Mirror Auto-Update"]
     types: [completed]
